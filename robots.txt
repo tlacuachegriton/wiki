@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tlacuachegriton.github.io/sitemap.xml.gz
