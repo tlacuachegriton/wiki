@@ -1,0 +1,17 @@
+input: .
+output: .retype
+
+url: wiki.tlacuachegriton.club
+
+start:
+  pro: true
+
+branding:
+  title: 🔥 Tlacuache Gritón
+
+links:
+  - text: Livera - Nivel 20
+    link: https://nivel20.com/games/dnd-5/campaigns/107859-livera
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
