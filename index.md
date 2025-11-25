@@ -2,7 +2,9 @@
 label: ":wave: ¡Bienvenides!"
 order: 9999
 ---
-# Bienvenides al Gremio del Tlacuache Gritón! 🔥
+# ¡Bienvenides al Gremio del Tlacuache Gritón! 🔥
+
+![Logo Gremio del Tlacuache Gritón](/assets/images/logo.png)
 
 ## Campañas Activas
 

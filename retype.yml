@@ -11,8 +11,10 @@ breadcrumb:
   home: ":icon-home:"
 
 branding:
-  title: 🔥 Tlacuache Gritón
   label: Ver. Beta 0.1.0
+  logo: /assets/images/logo_horizontal.png
+
+favicon: /assets/images/logo_tlacuache.png
 
 links:
   - text: Nivel 20
