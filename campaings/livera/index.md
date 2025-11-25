@@ -3,6 +3,7 @@ label: ":bento: Livera"
 order: 100
 nav:
   badge: DnD 5e|info
+tags: [campaña,dnd]
 ---
 # Livera
 

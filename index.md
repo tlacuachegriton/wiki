@@ -10,20 +10,19 @@ Estos son documentos vivos, con informacion que se va descubriendo conforme las 
 
 Están pensados para tener la informacion relevante para los jugadores centralizada, permitiendo a jugadores nuevos ponerse al día o refrescar la memoria de los veteranos. Estos documentos no deben tener adelantos de la campaña ni spoilers.
 
-!!!info [:bento: Livera](/campaings/livera/index.md)
-[!badge DnD 5e](/games/dnd_5e/index.md) 
-
+==- :bento: Livera &emsp; [!badge variant="info" text="DnD 5e"]
 ...Short Description
-!!!
 
-!!!info [:zzz: Onírika](/campaings/onirika/index.md)
-[!badge Dnd 5e](/games/dnd_5e/index.md) 
+[Ir a la Campaña](/campaings/livera/index.md)
 
+==- :zzz: Onírika &emsp; [!badge variant="info" text="DnD 5e"]
 ...Short Description
-!!!
 
-!!!info [:bangbang: Error 404](/campaings/error_404/index.md)
-[!badge Mago la Ascension](/games/mage_the_ascension/index.md) 
+[Ir a la Campaña](/campaings/onirika/index.md)
 
+==- :bangbang: Error 404 &emsp; [!badge variant="info" text="Mago: la Ascension"]
 ...Short Description
-!!!
+
+[Ir a la Campaña](/campaings/error_404/index.md)
+
+===

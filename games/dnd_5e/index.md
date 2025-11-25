@@ -1,6 +1,7 @@
 ---
 label: ":dragon: Dungeons & Dragons 5e"
 order: 99
+tags: [game,dnd]
 ---
 # Dungeons & Dragon 5e
 
@@ -41,9 +42,9 @@ Es la profesión de tu personaje, define las cosas en la que tiene habilidad, es
 Considera tu clase al momento de elegir los valores de tus características, no querrás un guerrero que se canse solo de caminar o un ladron con manos de mantequilla, o quizá sí, tu imaginación es el limite
 !!!
 
-### Características y Modificadores
+### Características
 
-Son los valores numéricos de las características físicas y mentales de tu personaje, reflejan lo bueno o malo que es tu personaje para hacer alguna acción
+Son los valores numéricos de las características físicas y mentales de tu personaje, reflejan lo bueno o malo que es tu personaje para hacer alguna acción, el valor máximo de una característica es 20.
 
 | Nombre | Nombre Ingles | Abreviatura | Uso Común |
 |---|---|---|---|
@@ -59,3 +60,21 @@ Puntajes recomendados por el gremio, repártelos en las características que con
 !!!info
 17 15 13 12 10 8
 !!!
+
+#### Modificadores
+
+Son los valores que se sumaran a tu tirada para darte un bono (positivo o negativo) al momento de hacer una acción y se obtienen según el valor de la característica necesaria para ejecutar la acción
+
+| Valor | Modificador |
+|---|---|
+| 19 - 20 | +5 |
+| 17 - 18 | +4 |
+| 15 - 16 | +3 |
+| 13 - 14 | +2 |
+| 11 - 12 | +1 |
+| 09 - 10 | +0 |
+| 07 - 08 | -1 |
+| 05 - 06 | -2 |
+
+Recuerda que estos valores y sus modificadores pueden cambiar (aumentar o disminuir) durante la campaña de forma temporal o permanente.
+

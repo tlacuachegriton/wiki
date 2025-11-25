@@ -3,6 +3,7 @@ label: ":bento: {{CAMPAIGN_NAME}}"
 order: 100
 nav:
   badge: {{GAME_SYSTEM}}|info
+tags: [campaña,{{GAME_TAG}}]
 ---
 # {{CAMPAIGN_NAME}}
 
