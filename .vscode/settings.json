@@ -15,6 +15,7 @@
     ],
     "conventionalCommits.scopes": [
         "build",
-        "project"
+        "project",
+        "newbie"
     ]
 }
