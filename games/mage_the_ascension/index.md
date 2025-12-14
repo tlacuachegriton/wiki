@@ -1,6 +1,6 @@
 ---
 label: ":mage: Mago: la Ascension"
-order: 98
+order: 97
 tags: [game, mago]
 ---
 # Mago: la Ascension
