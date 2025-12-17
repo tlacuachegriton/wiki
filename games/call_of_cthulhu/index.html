@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.819301793482">
+
+    <!-- See retype.com -->
+    <meta name="generator" content="Retype 3.11.0">
+
+    <!-- Primary Meta Tags -->
+    <title>La llamada de Cthulhu</title>
+    <meta name="title" content="La llamada de Cthulhu">
+    <meta name="description" content="La llamada de Cthulhu es un juego de rol de horror cósmico basado en las obras del escritor H.P. Lovecraft.">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://tlacuachegriton.github.io/games/call_of_cthulhu/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tlacuachegriton.github.io/games/call_of_cthulhu/">
+    <meta property="og:title" content="La llamada de Cthulhu">
+    <meta property="og:description" content="La llamada de Cthulhu es un juego de rol de horror cósmico basado en las obras del escritor H.P. Lovecraft.">
+    <meta property="og:image" content="https://tlacuachegriton.github.io/assets/images/call_of_cthulhu/header.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://tlacuachegriton.github.io/games/call_of_cthulhu/">
+    <meta property="twitter:title" content="La llamada de Cthulhu">
+    <meta property="twitter:description" content="La llamada de Cthulhu es un juego de rol de horror cósmico basado en las obras del escritor H.P. Lovecraft.">
+    <meta property="twitter:image" content="https://tlacuachegriton.github.io/assets/images/call_of_cthulhu/header.png">
+
+    <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
+
+    <link href="../../assets/images/logo_tlacuache.png" rel="icon">
+    <link href="../../resources/css/retype.css?v=3.11.0.819301793482" rel="stylesheet">
+
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.819301793482" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.819301793482" data-turbo-eval="false" defer></script>
+</head>
+<body>
+    <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
+        <div class="absolute bottom-0 left-0" style="top: 5rem; right: 50%"></div>
+    
+        <header id="retype-header" class="sticky top-0 z-30 flex w-full h-16 bg-header-bg border-b border-header-border md:h-20">
+            <div class="container relative flex items-center justify-between pr-6 grow md:justify-start">
+                <!-- Mobile menu button skeleton -->
+                <button v-cloak class="skeleton retype-mobile-menu-button flex items-center justify-center shrink-0 overflow-hidden dark:text-white focus:outline-none rounded-full w-10 h-10 ml-3.5 md:hidden"><svg xmlns="http://www.w3.org/2000/svg" class="mb-px shrink-0" width="24" height="24" viewBox="0 0 24 24" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor"><path d="M2 4h20v2H2zM2 11h20v2H2zM2 18h20v2H2z"></path></g></svg></button>
+                <div v-cloak id="retype-sidebar-left-toggle-button"></div>
+        
+                <!-- Logo -->
+                <div class="flex items-center justify-between h-full py-2 md:w-75">
+                    <div class="flex items-center px-2 md:px-6">
+                        <a id="retype-branding-logo" href="../../" class="flex items-center leading-snug text-2xl">
+                            <span class="grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../../assets/images/logo_horizontal.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../../assets/images/logo_horizontal.png">
+                            </span>
+                        </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">Ver. Beta 0.1.0</span>
+                    </div>
+        
+                    <span class="hidden h-8 border-r md:inline-block border-base-border"></span>
+                </div>
+        
+                <div class="flex justify-between md:grow">
+                    <!-- Top Nav -->
+                    <nav id="retype-header-nav" class="hidden md:flex">
+                        <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://nivel20.com">
+                                    <span class="docs-emoji mr-1">🌐</span>
+                                    <span>Nivel 20</span>
+                                </a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://play.google.com/store/apps/details?id=com.AlexHicks.Dice">
+                                    <span class="docs-emoji mr-1">🎲</span>
+                                    <span>Dados Virtuales - Android</span>
+                                </a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://apps.apple.com/us/app/mighty-dice/id1379577924">
+                                    <span class="docs-emoji mr-1">🎲</span>
+                                    <span>Dados Virtuales - iOS</span>
+                                </a>
+                            </li>
+        
+                        </ul>
+                    </nav>
+        
+                    <!-- Header Right Skeleton -->
+                    <div v-cloak class="flex justify-end grow skeleton">
+        
+                        <!-- Search input mock -->
+                        <div class="relative hidden w-40 lg:block lg:max-w-sm lg:ml-auto">
+                            <div class="absolute flex items-center justify-center h-full pl-3 dark:text-dark-300">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="icon-base" width="16" height="16" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 1px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                            </div>
+                            <input class="w-full h-10 placeholder-search-placeholder transition-colors duration-200 ease-in bg-search-bg border border-transparent rounded md:text-sm hover:border-search-border-hover focus:outline-none focus:border-search-border-focus" style="padding: 0.625rem 0.75rem 0.625rem 2rem" type="text" placeholder="Search">
+                        </div>
+        
+                        <!-- Mobile search button -->
+                        <div class="flex items-center justify-center w-10 h-10 lg:hidden">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="20" height="20" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><path d="M21.71 20.29l-3.68-3.68A8.963 8.963 0 0020 11c0-4.96-4.04-9-9-9s-9 4.04-9 9 4.04 9 9 9c2.12 0 4.07-.74 5.61-1.97l3.68 3.68c.2.19.45.29.71.29s.51-.1.71-.29c.39-.39.39-1.03 0-1.42zM4 11c0-3.86 3.14-7 7-7s7 3.14 7 7c0 1.92-.78 3.66-2.04 4.93-.01.01-.02.01-.02.01-.01.01-.01.01-.01.02A6.98 6.98 0 0111 18c-3.86 0-7-3.14-7-7z" ></path></g></svg>
+                        </div>
+        
+                        <!-- Dark mode switch placeholder -->
+                        <div class="w-10 h-10 lg:ml-2"></div>
+        
+                        <!-- History button -->
+                        <div class="flex items-center justify-center w-10 h-10" style="margin-right: -0.625rem;">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="shrink-0 icon-base" width="22" height="22" viewBox="0 0 24 24" aria-labelledby="icon" role="presentation" style="margin-bottom: 0px;"><g fill="currentColor" ><g ><path d="M12.01 6.01c-.55 0-1 .45-1 1V12a1 1 0 00.4.8l3 2.22a.985.985 0 001.39-.2.996.996 0 00-.21-1.4l-2.6-1.92V7.01c.02-.55-.43-1-.98-1z"></path><path d="M12.01 1.91c-5.33 0-9.69 4.16-10.05 9.4l-.29-.26a.997.997 0 10-1.34 1.48l1.97 1.79c.19.17.43.26.67.26s.48-.09.67-.26l1.97-1.79a.997.997 0 10-1.34-1.48l-.31.28c.34-4.14 3.82-7.41 8.05-7.41 4.46 0 8.08 3.63 8.08 8.09s-3.63 8.08-8.08 8.08c-2.18 0-4.22-.85-5.75-2.4a.996.996 0 10-1.42 1.4 10.02 10.02 0 007.17 2.99c5.56 0 10.08-4.52 10.08-10.08.01-5.56-4.52-10.09-10.08-10.09z"></path></g></g></svg>
+                        </div>
+                    </div>
+        
+                    <div v-cloak class="flex justify-end grow">
+                        <div id="retype-mobile-search-button"></div>
+                        <doc-search-desktop></doc-search-desktop>
+        
+                        <doc-theme-switch class="lg:ml-2"></doc-theme-switch>
+                        <doc-history></doc-history>
+                    </div>
+                </div>
+            </div>
+        </header>
+    
+    
+        <div id="retype-container" class="container relative flex bg-white">
+            <!-- Sidebar Skeleton -->
+            <div v-cloak class="fixed flex flex-col shrink-0 duration-300 ease-in-out bg-sidebar-left-bg border-sidebar-left-border sidebar top-20 w-75 border-r h-screen md:sticky transition-transform skeleton">
+            
+                <div class="flex items-center h-16 px-6">
+                    <input class="w-full h-8 px-3 py-2 transition-colors duration-200 ease-linear bg-filter-bg border border-filter-border rounded shadow-none text-sm focus:outline-none focus:border-filter-border-focus" type="text" placeholder="Filter">
+                </div>
+            
+                <div class="pl-6 mt-1 mb-4">
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                    <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                </div>
+            
+                <div class="shrink-0 mt-auto bg-transparent dark:border-base-border">
+                    <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                        <span class="text-xs whitespace-nowrap">Powered by</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Sidebar component -->
+            <doc-sidebar v-cloak>
+                <template #sidebar-footer>
+                    <div class="shrink-0 mt-auto border-t md:bg-transparent md:border-none dark:border-base-border">
+            
+                        <div class="py-3 px-6 md:hidden border-b dark:border-base-border">
+                            <nav>
+                                <ul class="flex flex-wrap justify-center items-center">
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://nivel20.com">
+                                            <span class="docs-emoji mr-1">🌐</span>
+                                            <span>Nivel 20</span>
+                                        </a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://play.google.com/store/apps/details?id=com.AlexHicks.Dice">
+                                            <span class="docs-emoji mr-1">🎲</span>
+                                            <span>Dados Virtuales - Android</span>
+                                        </a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://apps.apple.com/us/app/mighty-dice/id1379577924">
+                                            <span class="docs-emoji mr-1">🎲</span>
+                                            <span>Dados Virtuales - iOS</span>
+                                        </a>
+                                    </li>
+            
+                                </ul>
+                            </nav>
+                        </div>
+            
+                        <a class="flex items-center justify-center flex-nowrap h-16 text-gray-350 dark:text-dark-400 hover:text-gray-600 dark:hover:text-dark-300 transition-colors duration-150 ease-in docs-powered-by" target="_blank" href="https://retype.com/" rel="noopener">
+                            <span class="text-xs whitespace-nowrap">Powered by</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-2" fill="currentColor" width="96" height="20" overflow="visible"><path d="M0 0v20h13.59V0H0zm11.15 17.54H2.44V2.46h8.71v15.08zM15.8 20h2.44V4.67L15.8 2.22zM20.45 6.89V20h2.44V9.34z"/><g><path d="M40.16 8.44c0 1.49-.59 2.45-1.75 2.88l2.34 3.32h-2.53l-2.04-2.96h-1.43v2.96h-2.06V5.36h3.5c1.43 0 2.46.24 3.07.73s.9 1.27.9 2.35zm-2.48 1.1c.26-.23.38-.59.38-1.09 0-.5-.13-.84-.4-1.03s-.73-.28-1.39-.28h-1.54v2.75h1.5c.72 0 1.2-.12 1.45-.35zM51.56 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92h4.74v1.83h-6.79V5.36h6.64zM60.09 7.15v7.48h-2.06V7.15h-2.61V5.36h7.28v1.79h-2.61zM70.81 14.64h-2.06v-3.66l-3.19-5.61h2.23l1.99 3.45 1.99-3.45H74l-3.19 5.61v3.66zM83.99 6.19c.65.55.97 1.4.97 2.55s-.33 1.98-1 2.51-1.68.8-3.04.8h-1.23v2.59h-2.06V5.36h3.26c1.42 0 2.45.28 3.1.83zm-1.51 3.65c.25-.28.37-.69.37-1.22s-.16-.92-.48-1.14c-.32-.23-.82-.34-1.5-.34H79.7v3.12h1.38c.68 0 1.15-.14 1.4-.42zM95.85 5.36V7.2h-4.59v1.91h4.13v1.76h-4.13v1.92H96v1.83h-6.79V5.36h6.64z"/></g></svg>
+                        </a>
+                    </div>
+                </template>
+            </doc-sidebar>
+    
+            <div class="grow min-w-0 bg-body-bg">
+                <!-- Render "toolbar" template here on api pages --><!-- Render page content -->
+                <div class="flex">
+                    <div id="retype-main" class="min-w-0 p-4 grow md:px-16">
+                        <main class="relative pb-12 lg:pt-2">
+                            <div class="retype-markdown" id="retype-content">
+                                <!-- Rendered if sidebar right is enabled -->
+                                <div id="retype-sidebar-right-toggle"></div>
+                                <nav id="retype-breadcrumb" class="breadcrumb" aria-label="Breadcrumb">
+                                    <ol role="list">
+                                        <li class="pr-4">
+                                            <a href="../../" class="pr-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+                                                    <path d="M11.03 2.59a1.501 1.501 0 0 1 1.94 0l7.5 6.363a1.5 1.5 0 0 1 .53 1.144V19.5a1.5 1.5 0 0 1-1.5 1.5h-5.75a.75.75 0 0 1-.75-.75V14h-2v6.25a.75.75 0 0 1-.75.75H4.5A1.5 1.5 0 0 1 3 19.5v-9.403c0-.44.194-.859.53-1.144ZM12 3.734l-7.5 6.363V19.5h5v-6.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v6.25h5v-9.403Z"/>
+                                                </svg>
+                                            </a>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+                                                <path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"/>
+                                            </svg>
+                                        </li>
+                                        <li class="pr-4">
+                                            <span class="pr-4">
+                                                Juegos
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+                                                <path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"/>
+                                            </svg>
+                                        </li>
+                                        <li class="pr-4">
+                                            <a href="../../games/call_of_cthulhu/" class="pr-4">
+                                                🐙 La llamada de Cthulhu
+                                            </a>
+                                        </li>
+                                    </ol>
+                                </nav>
+                
+                                <!-- Page content  -->
+<doc-anchor-target id="la-llamada-de-cthulhu" class="break-words">
+    <h1>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#la-llamada-de-cthulhu">#</doc-anchor-trigger>
+        <span>La llamada de Cthulhu</span>
+    </h1>
+</doc-anchor-target>
+<p><figure class="content-center">
+    <img src="../../assets/images/call_of_cthulhu/header.png" alt="" class="rounded-image-rounded border-image-border border-image-border-width" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+<p><strong>La llamada de Cthulhu</strong> es un juego de rol de horror cósmico basado en las obras del escritor H.P. Lovecraft. Los jugadores interpretan investigadores que se enfrentan a misterios sobrenaturales y entidades cósmicas incomprensibles. A diferencia de otros juegos de rol, aquí el conocimiento puede ser más peligroso que la ignorancia, y la cordura de tu personaje está constantemente en riesgo. El objetivo no siempre es ganar, sino sobrevivir con la mayor cordura posible mientras desentrañas misterios que pueden destruir tu mente.</p>
+<doc-anchor-target id="set-de-dados">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#set-de-dados">#</doc-anchor-trigger>
+        <span>Set de Dados</span>
+    </h2>
+</doc-anchor-target>
+<p>Los dados recomendados para jugar son:</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Forma</th>
+<th>Abreviatura</th>
+<th>Nombre Completo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="../../assets/icons/d20.png" alt="" /></td>
+<td>1d20</td>
+<td>1 Dado 20 caras</td>
+</tr>
+<tr>
+<td><img src="../../assets/icons/d12.png" alt="" /></td>
+<td>1d12</td>
+<td>1 Dado 12 caras</td>
+</tr>
+<tr>
+<td><img src="../../assets/icons/d10.png" alt="" /> <img src="../../assets/icons/d10.png" alt="" /></td>
+<td>2d10</td>
+<td>2 Dados 10 caras (unidades y decenas)</td>
+</tr>
+<tr>
+<td><img src="../../assets/icons/d8.png" alt="" /></td>
+<td>1d8</td>
+<td>1 Dado 8 caras</td>
+</tr>
+<tr>
+<td><img src="../../assets/icons/d6.png" alt="" /></td>
+<td>1d6</td>
+<td>1 Dado 6 caras</td>
+</tr>
+<tr>
+<td><img src="../../assets/icons/d4.png" alt="" /></td>
+<td>1d4</td>
+<td>1 Dado 4 caras</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>No tienes que limitarte a solo un set, es muy común necesitar 2, 3 o mas copias de un mismo dado con forme nuestros ataques van subiendo de nivel.</p>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-info"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-info" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>No te preocupes si necesitas mas de un dado para alguna tirada y no lo tienes, siempre puedes tirar el mismo dado mas de una vez o pedir prestado uno a un compañero o DM</p>
+        </div>
+    </div>
+</div>
+<doc-anchor-target id="creación-de-personaje">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#creación-de-personaje">#</doc-anchor-trigger>
+        <span>Creación de Personaje</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="características">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#características">#</doc-anchor-trigger>
+        <span>Características</span>
+    </h3>
+</doc-anchor-target>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Total</th>
+<th>Difícil (1/2)</th>
+<th>Extremo (1/5)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>90</td>
+<td>45</td>
+<td>18</td>
+</tr>
+<tr>
+<td>85</td>
+<td>43</td>
+<td>17</td>
+</tr>
+<tr>
+<td>80</td>
+<td>40</td>
+<td>16</td>
+</tr>
+<tr>
+<td>75</td>
+<td>38</td>
+<td>15</td>
+</tr>
+<tr>
+<td>70</td>
+<td>35</td>
+<td>14</td>
+</tr>
+<tr>
+<td>65</td>
+<td>33</td>
+<td>13</td>
+</tr>
+<tr>
+<td>60</td>
+<td>30</td>
+<td>12</td>
+</tr>
+<tr>
+<td>55</td>
+<td>28</td>
+<td>11</td>
+</tr>
+<tr>
+<td>50</td>
+<td>25</td>
+<td>10</td>
+</tr>
+<tr>
+<td>45</td>
+<td>23</td>
+<td>09</td>
+</tr>
+<tr>
+<td>40</td>
+<td>20</td>
+<td>08</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Característica</th>
+<th>90 (Máximo)</th>
+<th>15 (Mínimo)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FUE (STR)</td>
+<td>Fuerza Imponente</td>
+<td>Débil, de poca complexión</td>
+</tr>
+<tr>
+<td>CON (CON)</td>
+<td>Vitalidad Indomable</td>
+<td>Enfermo, constitución frágil</td>
+</tr>
+<tr>
+<td>DES (DEX)</td>
+<td>Reflejos Felinos</td>
+<td>Torpe, movimientos lentos</td>
+</tr>
+<tr>
+<td>POD (POW)</td>
+<td>Voluntad de Hierro</td>
+<td>Cobarde, indeciso</td>
+</tr>
+<tr>
+<td>APAR (APP)</td>
+<td>Presencia Majestuosa</td>
+<td>Apariencia Olvidable</td>
+</tr>
+<tr>
+<td>EDU (EDU)</td>
+<td>Conocimiento Enciclopédico</td>
+<td>Sin Instrucción Formal</td>
+</tr>
+<tr>
+<td>TAM (SIZ)</td>
+<td>Corpulencia Dominante</td>
+<td>Muy Pequeño/Delgado</td>
+</tr>
+<tr>
+<td>INT (INT)</td>
+<td>Mente Brillante</td>
+<td>Pensamiento Lento</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Derivada</th>
+<th>Descripción</th>
+<th>Calculo de Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PV (Puntos Vida)</td>
+<td>Salud total del personaje</td>
+<td>(CON + SIZ) / 10</td>
+</tr>
+<tr>
+<td>PM (Puntos Mana)</td>
+<td>Consumible para lanzar magia</td>
+<td>POW / 5</td>
+</tr>
+<tr>
+<td>SAN (Cordura)</td>
+<td>Contador de cordura</td>
+<td>POW</td>
+</tr>
+<tr>
+<td>Dodge (Esquiva)</td>
+<td>Capacidad para evadir golpes o daño</td>
+<td>DEX / 2</td>
+</tr>
+<tr>
+<td>Luck (Suerte)</td>
+<td>Suerte general del personaje</td>
+<td>POW</td>
+</tr>
+<tr>
+<td>DB (Daño Base)</td>
+<td>Daño que se suma a las tiradas</td>
+<td>STR + SIZ -&gt; Ver Tabla</td>
+</tr>
+<tr>
+<td>MOV (Movimiento)</td>
+<td>Cantidad de espacios que te puedes mover</td>
+<td>Ver Tabla</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-base-border" style="grid-template-columns: repeat(2, minmax(0, 1fr));">
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
+        <span>Daño Base (STR + SIZ)</span>
+    </div>
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white">
+        <span>Movimiento</span>
+    </div>
+    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2 a 64</td>
+<td>-1D6</td>
+</tr>
+<tr>
+<td>65 a 84</td>
+<td>-1D4</td>
+</tr>
+<tr>
+<td>85 a 124</td>
+<td>0</td>
+</tr>
+<tr>
+<td>125 a 164</td>
+<td>+1D4</td>
+</tr>
+<tr>
+<td>165 a 204</td>
+<td>+1D6</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+    <div class="px-5 py-3 docs-columns-content">
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DES &lt; TAM y FUE &lt; TAM</td>
+<td>7</td>
+</tr>
+<tr>
+<td>DES &gt; TAM o FUE &gt; TAM</td>
+<td>8</td>
+</tr>
+<tr>
+<td>DES &gt; TAM y FUE &gt; TAM</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</div>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-info"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-info" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+<p>Fracciones se redondean hacia abajo</p>
+        </div>
+    </div>
+</div>
+<doc-anchor-target id="valores-estándar">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#valores-estándar">#</doc-anchor-trigger>
+        <span>Valores Estándar</span>
+    </h4>
+</doc-anchor-target>
+<p>Repartir los valores en las caracteristicas a conveniencia</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Valor Base</th>
+<th>Éxito Difícil</th>
+<th>Éxito Extremo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>80</td>
+<td>40</td>
+<td>16</td>
+</tr>
+<tr>
+<td>70</td>
+<td>35</td>
+<td>14</td>
+</tr>
+<tr>
+<td>60</td>
+<td>30</td>
+<td>12</td>
+</tr>
+<tr>
+<td>50</td>
+<td>25</td>
+<td>10</td>
+</tr>
+<tr>
+<td>50</td>
+<td>25</td>
+<td>10</td>
+</tr>
+<tr>
+<td>50</td>
+<td>25</td>
+<td>10</td>
+</tr>
+<tr>
+<td>40</td>
+<td>20</td>
+<td>08</td>
+</tr>
+<tr>
+<td>30</td>
+<td>15</td>
+<td>06</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="mecánicas">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#mecánicas">#</doc-anchor-trigger>
+        <span>Mecánicas</span>
+    </h2>
+</doc-anchor-target>
+<doc-anchor-target id="tiradas">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tiradas">#</doc-anchor-trigger>
+        <span>Tiradas</span>
+    </h3>
+</doc-anchor-target>
+<p>Los dados principales son los porcentuales 2d10 (1 Decenas y 1 Unidades), lanzar un valor menor de tu característica o habilidad es un éxito, lanzar un valor mayor es un fracaso.</p>
+<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-base-border" style="grid-template-columns: repeat(3, minmax(0, 1fr));">
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
+        <span>Dados</span>
+    </div>
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
+        <span>Pifia ó Fallo critico</span>
+    </div>
+    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white">
+        <span>Éxito critico</span>
+    </div>
+    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
+<p><img src="../../assets/icons/d10.png" alt="" /> 1D10 de Unidades 0 a 9 (de 1 en 1)</p>
+<p><img src="../../assets/icons/d10.png" alt="" /> 1D10 de Decenas 00 a 90 (de 10 en 10)</p>
+<p><strong>Lectura de las Tiradas</strong></p>
+<ul>
+<li>0 + 00 -&gt; 100</li>
+<li>1 + 00 -&gt; 01</li>
+<li>0 + 70 -&gt; 70</li>
+<li>3 + 60 -&gt; 63</li>
+<li>5 + 00 -&gt; 05</li>
+</ul>
+    </div>
+    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
+<p>Fallas totalmente la tirada, sin opción a usar <em>suerte</em>, si la dificultad de la tirada es:</p>
+<ul>
+<li>mayor o igual a <strong>50%</strong> y sacas <em><strong>100</strong> Natural</em></li>
+<li>menor a <strong>50%</strong> y sacas entre <em><strong>96 y 100</strong> Natural</em></li>
+</ul>
+<p>Tu acción falla totalmente.</p>
+    </div>
+    <div class="px-5 py-3 docs-columns-content">
+<p>Si al tirar obtienes un <em><strong>01 Natural</strong></em> tienes un éxito absoluto en lo que estás haciendo</p>
+    </div>
+</div>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-info"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-info" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Lectura de las Tiradas</h5>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Dado Unidades</th>
+<th>Dado Decenas</th>
+<th>Resultado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>00</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1</td>
+<td>00</td>
+<td>01</td>
+</tr>
+<tr>
+<td>0</td>
+<td>70</td>
+<td>70</td>
+</tr>
+<tr>
+<td>3</td>
+<td>60</td>
+<td>63</td>
+</tr>
+<tr>
+<td>5</td>
+<td>00</td>
+<td>05</td>
+</tr>
+</tbody>
+</table>
+</div>
+        </div>
+    </div>
+</div>
+<doc-anchor-target id="tiradas-forzadas-push-rolls">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tiradas-forzadas-push-rolls">#</doc-anchor-trigger>
+        <span>Tiradas Forzadas (Push Rolls)</span>
+    </h3>
+</doc-anchor-target>
+<p>Cuando fallas una tirada de habilidad, puedes optar por <em>&quot;forzar&quot;</em> la tirada para intentarla una segunda vez, pero con consecuencias.</p>
+<p><strong>Cómo Funciona:</strong></p>
+<ol>
+<li>Fallas una tirada de habilidad</li>
+<li>Declaras que quieres forzar la tirada</li>
+<li>El Guardián describe las posibles consecuencias del fracaso</li>
+<li>Tiras de nuevo con los mismos dados</li>
+</ol>
+<p><strong>Resultados Posibles:</strong></p>
+<ul>
+<li><strong>Éxito:</strong> Logras tu objetivo pero con complicaciones menores</li>
+<li><strong>Fracaso:</strong> Sufres las consecuencias descritas por el Guardián (daño, pérdida de Cordura, complicaciones narrativas, etc.)</li>
+</ul>
+<p><strong>Restricciones:</strong></p>
+<ul>
+<li>Solo puedes forzar cada tirada una vez</li>
+<li>No puedes forzar tiradas de Cordura, Suerte, o tiradas de característica</li>
+<li>Algunas situaciones no permiten tiradas forzadas (a discreción del Guardián)</li>
+</ul>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-info"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-info" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Ejemplo</h5>
+<p>Intentas abrir una cerradura y fallas. Puedes forzar la tirada, pero el Guardián te advierte que si fallas, la ganzúa se romperá y harás ruido que alerte a los guardias.</p>
+        </div>
+    </div>
+</div>
+<doc-anchor-target id="sistema-de-dificultad">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#sistema-de-dificultad">#</doc-anchor-trigger>
+        <span>Sistema de Dificultad</span>
+    </h3>
+</doc-anchor-target>
+<p>Las tiradas en Call of Cthulhu tienen diferentes niveles de dificultad:</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Dificultad</th>
+<th>Requisito</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Regular</strong></td>
+<td>≤ Habilidad</td>
+<td>Tirada normal bajo condiciones estándar</td>
+</tr>
+<tr>
+<td><strong>Difícil</strong></td>
+<td>≤ Habilidad/2</td>
+<td>Condiciones adversas o tareas complicadas</td>
+</tr>
+<tr>
+<td><strong>Extrema</strong></td>
+<td>≤ Habilidad/5</td>
+<td>Condiciones muy adversas o tareas casi imposibles</td>
+</tr>
+</tbody>
+</table>
+</div>
+<doc-anchor-target id="tiradas-opuestas">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#tiradas-opuestas">#</doc-anchor-trigger>
+        <span>Tiradas Opuestas</span>
+    </h3>
+</doc-anchor-target>
+<p>Cuando dos personajes compiten directamente:</p>
+<ol>
+<li>Ambos tiran sus habilidades relevantes</li>
+<li>El que obtenga el mejor nivel de éxito gana</li>
+<li>En caso de empate, gana quien tenga la habilidad más alta</li>
+</ol>
+<p><strong>Orden de Éxitos (de mayor a menor):</strong></p>
+<ol>
+<li>Éxito Extremo</li>
+<li>Éxito Difícil</li>
+<li>Éxito Regular</li>
+<li>Fracaso</li>
+</ol>
+<doc-anchor-target id="uso-de-la-suerte">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#uso-de-la-suerte">#</doc-anchor-trigger>
+        <span>Uso de la Suerte</span>
+    </h3>
+</doc-anchor-target>
+<p>La Suerte es un recurso limitado que puedes gastar para mejorar tus resultados:</p>
+<p><strong>Gastos Comunes:</strong></p>
+<ul>
+<li><strong>Evitar daño:</strong> Gasta Suerte para reducir el daño recibido punto por punto</li>
+<li><strong>Modificar tiradas:</strong> Gasta Suerte para mejorar el resultado de una tirada</li>
+<li><strong>Evitar consecuencias:</strong> Gasta Suerte para evitar efectos negativos menores</li>
+</ul>
+<p><strong>Recuperación:</strong></p>
+<ul>
+<li>La Suerte se recupera lentamente durante el juego</li>
+<li>Actos heroicos pueden restaurar puntos de Suerte</li>
+<li>Al inicio de cada escenario sueles recuperar algo de Suerte</li>
+</ul>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
+                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Administra tu Suerte</h5>
+<p>La Suerte es un recurso finito. Úsala sabiamente en momentos críticos.</p>
+        </div>
+    </div>
+</div>
+<doc-anchor-target id="cordura-sanidad">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#cordura-sanidad">#</doc-anchor-trigger>
+        <span>Cordura (Sanidad)</span>
+    </h3>
+</doc-anchor-target>
+<p>La Cordura es uno de los elementos más importantes del juego. Representa la estabilidad mental de tu investigador ante los horrores cósmicos que enfrentará.</p>
+<p><strong>Valor Inicial:</strong> Tu Cordura inicial es igual a tu POD (Poder).</p>
+<p><strong>Pérdida de Cordura:</strong></p>
+<ul>
+<li><strong>Horrores menores:</strong> 1d4 puntos de Cordura</li>
+<li><strong>Horrores mayores:</strong> 1d10 puntos de Cordura</li>
+<li><strong>Entidades cósmicas:</strong> 1d20 o más puntos de Cordura</li>
+<li><strong>Conocimiento prohibido:</strong> Variable según lo aprendido</li>
+</ul>
+<p><strong>Tipos de Pérdida:</strong></p>
+<ul>
+<li><strong>Temporal:</strong> Se puede recuperar con descanso y tiempo</li>
+<li><strong>Permanente:</strong> Pérdida definitiva que reduce tu Cordura máxima</li>
+</ul>
+<p><strong>Efectos de la Pérdida:</strong></p>
+<ul>
+<li><strong>Pérdida de 5+ puntos en una tirada:</strong> Tirada de Cordura o sufrir un episodio de Locura Temporal</li>
+<li><strong>Pérdida del 20% (1/5) o más de tu Cordura total:</strong> Tirada de cordura, si falla desarrollar una Fobia o Manía permanente o episodio de locura mayor.</li>
+<li><strong>Cordura 0:</strong> Tu investigador queda permanentemente loco y fuera de tu control</li>
+</ul>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-warning"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-warning" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M22.48 15.59L14.01 1.45A2.968 2.968 0 0012.16.09c-.78-.19-1.58-.07-2.27.35-.41.25-.76.6-1.01 1.01v.01L.4 15.6c-.83 1.43-.33 3.27 1.1 4.1.45.26.95.4 1.48.4h16.95c.8-.01 1.55-.33 2.11-.9.56-.57.87-1.33.86-2.13a3.04 3.04 0 00-.42-1.48zm-1.87 2.21c-.19.19-.44.3-.69.3H2.99c-.17 0-.34-.05-.49-.13a.992.992 0 01-.37-1.35L10.6 2.48c.08-.14.2-.25.34-.33a.992.992 0 011.37.33l8.46 14.13c.09.15.13.32.13.49 0 .26-.1.51-.29.7z"></path>
+                    <path d="M11.45 12.1c.55 0 1-.45 1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 .56.45 1 1 1zM11.46 14.1c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>¡Cuidado!</h5>
+<p>La pérdida de Cordura es acumulativa. Cada encuentro sobrenatural te acerca más a la locura total.</p>
+        </div>
+    </div>
+</div>
+<doc-anchor-target id="combate-básico">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#combate-básico">#</doc-anchor-trigger>
+        <span>Combate Básico</span>
+    </h3>
+</doc-anchor-target>
+<p><strong>Iniciativa:</strong> Se determina por DEX, actuando de mayor a menor.</p>
+<p><strong>Ataques:</strong></p>
+<ul>
+<li>Tirada de habilidad de combate correspondiente</li>
+<li>Éxito, impactas al objetivo</li>
+<li>Tira daño según el arma utilizada</li>
+<li>En ataque cuerpo a cuerpo sumas tu Daño Base (DB) a la tirada de daño</li>
+</ul>
+<p><strong>Defensa:</strong></p>
+<ul>
+<li><strong>Esquivar:</strong> Usar habilidad de Esquiva</li>
+<li><strong>Pelear:</strong> Contraatacar con arma de combate cuerpo a cuerpo</li>
+<li><strong>Bloquear:</strong> Si tienes escudo o arma defensiva</li>
+</ul>
+<p><strong>Daño y Heridas:</strong></p>
+<ul>
+<li><strong>Heridas menores:</strong> Hasta la mitad de tus PV</li>
+<li><strong>Heridas mayores:</strong> Más de la mitad de tus PV (tirada de CON o quedar inconsciente)</li>
+<li><strong>Muerte:</strong> 0 PV o menos</li>
+</ul>
+<doc-anchor-target id="locura-temporal">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#locura-temporal">#</doc-anchor-trigger>
+        <span>Locura Temporal</span>
+    </h3>
+</doc-anchor-target>
+<p>Cuando fallas una tirada de Cordura tras perder 5+ puntos, sufres un episodio de locura:</p>
+<p><strong>Duración:</strong> 1d10 rounds + minutos igual a la Cordura perdida</p>
+<p><strong>Efectos Aleatorios (1d10):</strong></p>
+<ol>
+<li><strong>Desmayo:</strong> Caes inconsciente</li>
+<li><strong>Huida:</strong> Corres despavorido</li>
+<li><strong>Estupor:</strong> Quedas paralizado por el terror</li>
+<li><strong>Ataque de pánico:</strong> Gritas y actúas erráticamente</li>
+<li><strong>Amnesia:</strong> Olvidas los últimos eventos</li>
+<li><strong>Fobia temporal:</strong> Terror irracional a algo específico</li>
+<li><strong>Comportamiento repetitivo:</strong> Repites una acción constantemente</li>
+<li><strong>Alucinaciones:</strong> Ves u oyes cosas que no están ahí</li>
+<li><strong>Violencia:</strong> Atacas a todo lo que se mueva</li>
+<li><strong>A elección del Guardián:</strong> Efecto apropiado para la situación</li>
+</ol>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-info"></div>
+    <div class="flex w-full py-4 border border-l-0 rounded-tr-lg rounded-br-lg doc-callout bg-callout-base-bg border-callout-base-border" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-callout-info" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>Recuperación</h5>
+<p>Después del episodio, realizas una tirada de Cordura. Si tienes éxito, recuperas 1d3 puntos de Cordura perdidos en el encuentro.</p>
+        </div>
+    </div>
+</div>
+
+                                <div id="retype-tags" class="flex items-center mt-6 mb-6 clear-both">
+                                    <span>
+                                        <a href="../../tags/">
+                                            <svg class="inline-block -mb-px mr-1.5 text-body-link hover:text-body-link-hover" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" overflow="visible" fill="currentColor"><g><path d="M21.3 9.88l-8.59-8.59C12.52 1.11 12.27 1 12 1H2c-.55 0-1 .45-1 1v10c0 .27.11.52.29.71l8.59 8.58c.57.57 1.32.88 2.12.88s1.55-.31 2.12-.88l7.17-7.17a3.009 3.009 0 00.01-4.24zm-1.42 2.82l-7.17 7.17c-.39.39-1.02.39-1.42 0L3 11.59V3h8.59l8.29 8.29c.39.39.39 1.03 0 1.41z" /><path d="M7.01 6C6.45 6 6 6.45 6 7s.45 1 1 1 1-.45 1-1-.44-1-.99-1z" /></g></svg>
+                                        </a>
+                                        <span class="mr-2"><a href="../../tags/game/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+                                    <span>game</span>
+                                </a></span>
+                                        <span class="mr-2"><a href="../../tags/coc/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+                                    <span>coc</span>
+                                </a></span>
+                                        <span class="mr-2"><a href="../../tags/cthulhu/" class="no-link inline-flex align-middle items-center justify-center font-medium leading-none whitespace-nowrap text-badge-info-text bg-badge-info border border-badge-info-border hover:text-badge-info-text-hover hover:bg-badge-info-hover hover:border-badge-info-border-hover transition-colors duration-200 ease-out h-6 px-2 text-xs rounded-md">
+                                    <span>cthulhu</span>
+                                </a></span>
+                                    </span>
+                                </div>
+                
+                                <!-- Required only on API pages -->
+                                <doc-toolbar-member-filter-no-results></doc-toolbar-member-filter-no-results>
+                            </div>
+                            <footer id="retype-content-footer" class="clear-both">
+                            
+                                <nav id="retype-nextprev" class="print:hidden flex mt-14">
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../games/dnd_5e/resources/">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                            <span>
+                                                <span class="block text-xs font-normal text-base-text-muted">Previous</span>
+                                                <span class="block mt-1">Recursos</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                            
+                                    <div class="w-1/2">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-body-link border border-base-border hover:border-base-border-hover rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../games/mage_the_ascension/">
+                                            <span>
+                                                <span class="block text-xs font-normal text-right text-base-text-muted">Next</span>
+                                                <span class="block mt-1">🧙 Mago: la Ascension</span>
+                                            </span>
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
+                                        </a>
+                                    </div>
+                                </nav>
+                            </footer>
+                        </main>
+                
+                        <div id="retype-page-footer" class="print:border-none border-t border-base-border pt-6 mb-8">
+                            <footer class="flex flex-wrap items-center justify-between print:justify-center">
+                                <div id="retype-footer-links" class="print:hidden">
+                                    <ul class="flex flex-wrap items-center text-sm">
+                                    </ul>
+                                </div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2025. All rights reserved.</p></div>
+                            </footer>
+                        </div>
+                    </div>
+                
+                    <!-- Rendered if sidebar right is enabled -->
+                    <!-- Sidebar right skeleton-->
+                    <div v-cloak class="fixed top-0 bottom-0 right-0 translate-x-full bg-sidebar-right-bg border-sidebar-right-border lg:sticky lg:border-l lg:shrink-0 lg:pt-6 lg:transform-none sm:w-1/2 lg:w-64 lg:z-0 md:w-104 sidebar-right skeleton">
+                        <div class="pl-5">
+                            <div class="w-32 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-48 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                            <div class="w-40 h-3 mb-4 bg-skeleton-bg rounded-full loading"></div>
+                        </div>
+                    </div>
+                
+                    <!-- User should be able to hide sidebar right -->
+                    <doc-sidebar-right v-cloak></doc-sidebar-right>
+                </div>
+
+            </div>
+        </div>
+    
+        <doc-search-mobile></doc-search-mobile>
+        <doc-back-to-top></doc-back-to-top>
+    </div>
+
+
+    <div id="retype-overlay-target"></div>
+
+    <script data-cfasync="false">window.__DOCS__ = { "title": "🐙 La llamada de Cthulhu", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+</body>
+</html>
