@@ -1,4 +1,4 @@
 label: "NPCs"
-visibility: protected
+visibility: hidden
 order: 96
 tags: [Los Fríos del Norte]
