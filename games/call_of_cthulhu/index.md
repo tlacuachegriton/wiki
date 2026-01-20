@@ -1,6 +1,6 @@
 ---
 label: ":octopus: La llamada de Cthulhu"
-order: 98
+order: 99
 tags: [game, coc, cthulhu]
 ---
 # La llamada de Cthulhu
@@ -235,7 +235,6 @@ La Suerte es un recurso limitado que puedes gastar para mejorar tus resultados:
 !!!warning Administra tu Suerte
 La Suerte es un recurso finito. Úsala sabiamente en momentos críticos.
 !!!
-
 
 ### Cordura (Sanidad)
 

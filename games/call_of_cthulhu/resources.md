@@ -1,6 +1,6 @@
 ---
 label: "Recursos"
-order: 98
+order: 1
 ---
 # Recursos Call Of Cthulhu
 
