@@ -1,5 +1,7 @@
 # Chaneques
 
+![](/assets/images/one_shots/north_cold/cryptids/chaneques_imprenta.png)
+
 Pequeños seres elementales (parecidos a duendes o niños ancianos) guardianes de la naturaleza en el folklore mexicano. No son inherentemente malignos, pero sí vengativos y peligrosos si se les falta al respeto. Su peligro no es físico, sino espiritual.
 
 !!!danger Tirada de Cordura

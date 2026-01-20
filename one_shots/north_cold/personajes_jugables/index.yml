@@ -1,4 +1,3 @@
-label: "Personajes"
-visibility: hidden
-order: 91
+label: "Personajes Jugables Alternos"
+order: 90
 tags: [Los Fríos del Norte]

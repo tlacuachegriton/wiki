@@ -1,7 +1,6 @@
 ---
 label: "Guion de la Partida"
-visibility: hidden
-order: 9999
+order: 9998
 tags: [Los Fríos del Norte]
 ---
 # Guion: Los Fríos del Norte
@@ -27,7 +26,7 @@ Al amanecer, la temperatura desciende abruptamente. Aparece una neblina gélida,
 ## 3. Investigación y Descubrimiento
 
 - Búsqueda de pistas en la biblioteca, estudio, capilla y aposentos de Inés.
-- Encuentros con criaturas sobrenaturales (chaneques, chupacabras, ghouls, nahuales).
+- Encuentros con criaturas sobrenaturales (chaneques, chupacabras, nahuales).
 - Descubrimiento de rituales, diarios y hechizos relacionados con el frío y la entidad Ithaqua (Wendigo).
 - Revelación del culto secreto dirigido por Inés y el pacto fallido que causó la muerte de Éliezer.
 

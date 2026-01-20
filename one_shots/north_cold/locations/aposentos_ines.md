@@ -4,17 +4,17 @@
 
 Al entrar, el aire se siente notablemente más pesado. El olor predominante es una mezcla de almidón rígido, cera de vela barata y un rastro metálico que recuerda al hierro frío (o a la sangre seca).
 
-- **El Orden: Todo está en ángulos rectos. La cama está tendida con tal tensión que parece una lápida de mármol.
+- **El Orden:** Todo está en ángulos rectos. La cama está tendida con tal tensión que parece una lápida de mármol.
 
-- **La Sensación: Los investigadores sienten que las paredes "escuchan". Hay una falta total de toques personales, excepto por un rosario de madera cuyas cuentas están desgastadas, no por la oración, sino por el nerviosismo.
+- **La Sensación:** Los investigadores sienten que las paredes "escuchan". Hay una falta total de toques personales, excepto por un rosario de madera cuyas cuentas están desgastadas, no por la oración, sino por el nerviosismo.
 
 ## Pistas de la Traición
 
 Cualquier inspección superficial revela que Inés no es solo una capataz, sino la verdadera arquitecta del aislamiento de la hacienda.
 
-- **El Libro de Cuentas (Escritorio): Una tirada de Contabilidad o Buscar Libros revela que los suministros médicos para Éliezer fueron cancelados hace meses. En su lugar, hay facturas por "materiales de costura gruesa" y "sal en grano" en cantidades industriales (usadas para preservar la carne del "Viejo").
+- **El Libro de Cuentas (Escritorio):** Una tirada de Contabilidad o Buscar Libros revela que los suministros médicos para Éliezer fueron cancelados hace meses. En su lugar, hay facturas por "materiales de costura gruesa" y "sal en grano" en cantidades industriales (usadas para preservar la carne del "Viejo").
 
-- **El Mapa de Rondas: Un mapa de la hacienda con horarios detallados de los peones. Los nombres de aquellos que "desaparecieron" están tachados con una cruz negra y la palabra "Ofrenda".
+- **El Mapa de Rondas:** Un mapa de la hacienda con horarios detallados de los peones. Los nombres de aquellos que "desaparecieron" están tachados con una cruz negra y la palabra "Ofrenda".
 
 ## Altar Secreto a Ithaqua (Wendigo)
 

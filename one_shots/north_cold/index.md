@@ -1,6 +1,6 @@
 ---
 label: "Los Fríos del Norte"
-order: 99
+order: 9999
 nav:
   badge: "Call of Cthulhu|ghost"
 tags: [oneshot,coc,cthulhu, Los Fríos del Norte]
@@ -8,7 +8,7 @@ tags: [oneshot,coc,cthulhu, Los Fríos del Norte]
 
 # Los Fríos del Norte
 
-![](/assets/images/call_of_cthulhu/north_cold/module_header.png)
+![](/assets/images/one_shots/north_cold/module_header.png)
 
 El Porfiriato ha quedado atrás. La revolución ha obligado a Venustiano Carranza a mover su gobierno y la capital de la República al Puerto de Veracruz. Este cambio, junto con la reciente intervención de los Estados Unidos, ha causado una mezcla de emociones, confusión y un profundo recelo en la ciudad, donde algunos de sus pobladores mas arraigados a las tradiciones planean tomar cartas en el asunto para restaurar sus vidas y las de sus paisanos.
 

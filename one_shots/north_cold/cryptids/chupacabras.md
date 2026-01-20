@@ -1,5 +1,7 @@
 # Chupacabras
 
+![](/assets/images/one_shots/north_cold/cryptids/chupacabras_imprenta.png)
+
 Esta criatura es una aberración cuadrúpeda, de aproximadamente el tamaño de un lobo, pero con una postura encorvada que sugiere una inteligencia malévola. Su piel es coriácea, de un tono gris azulado y carente de pelaje, exceptuando una hilera de espinas rígidas que recorren su columna vertebral. Sus ojos son grandes cuencas que emiten un brillo carmesí intenso en la oscuridad, y su boca está diseñada para succionar, provista de colmillos huecos y una lengua bífida. En la Hacienda Poisot, el Chupacabras emite un vaho gélido al respirar, indicando que su sangre ha sido alterada por el frío de Inés.
 
 !!!danger Tirada de Cordura

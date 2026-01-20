@@ -1,5 +1,7 @@
 # Ithaqua (Wendigo)
 
+![](/assets/images/one_shots/north_cold/cryptids/ithaqua_imprenta.png)
+
 ## Aparición 1
 
 Una criatura demacrada, esquelética, de unos 3 metros de altura, con piel grisácea y congelada, ojos brillantes y garras largas. Parece un cadáver gigante animado por el hambre fría.

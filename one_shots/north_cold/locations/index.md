@@ -1,6 +1,5 @@
 ---
 label: "Ubicaciones"
-visibility: hidden
 order: 98
 tags: [Los Fríos del Norte]
 ---

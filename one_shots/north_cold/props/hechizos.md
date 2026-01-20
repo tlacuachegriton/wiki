@@ -1,3 +1,8 @@
+---
+label: "Hechizos"
+order: 1
+tags: [Los Fríos del Norte]
+---
 # Hechizos
 
 !!!info Considera que...

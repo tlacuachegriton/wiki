@@ -1,5 +1,7 @@
 # Nahuales
 
+![](/assets/images/one_shots/north_cold/cryptids/nahuales_imprenta.png)
+
 El Nahual es un humano (brujo o chamán) que tiene la habilidad mágica de transformarse en un animal. Sus estadísticas base son humanas, pero se modifican al transformarse. Conserva su INT y POD en forma animal.
 
 !!!danger Tirada de Cordura

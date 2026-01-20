@@ -32,7 +32,7 @@ Los investigadores pueden utilizar sus habilidades para investigar los detalles 
 El suelo de piedra está limpio, pero la fina escarcha que lo cubre puede haber capturado evidencia.
 
 - **Encontrar (Normal):** El investigador nota que la escarcha ha sido alterada en un patrón específico. Hay marcas de pies humanos que terminan abruptamente.
-- **Encontrar (Difícil):** El investigador descubre un conjunto de huellas más sutiles y extrañas que las humanas, cerca de la puerta de servicio: son marcas ligeras de tres dedos con pequeñas garras (posiblemente de los Ghouls o Nahuales que movieron los cuerpos).
+- **Encontrar (Difícil):** El investigador descubre un conjunto de huellas más sutiles y extrañas que las humanas, cerca de la puerta de servicio: son marcas ligeras de tres dedos con pequeñas garras (posiblemente de los Nahuales que movieron los cuerpos).
 
 ### El Centro de Mesa
 
