@@ -5,7 +5,7 @@ tags: [game, coc, cthulhu]
 ---
 # La llamada de Cthulhu
 
-![](/assets/images/call_of_cthulhu/header.png)
+![](/assets/images/games/call_of_cthulhu/header.png)
 
 **La llamada de Cthulhu** es un juego de rol de horror cósmico basado en las obras del escritor H.P. Lovecraft. Los jugadores interpretan investigadores que se enfrentan a misterios sobrenaturales y entidades cósmicas incomprensibles. A diferencia de otros juegos de rol, aquí el conocimiento puede ser más peligroso que la ignorancia, y la cordura de tu personaje está constantemente en riesgo. El objetivo no siempre es ganar, sino sobrevivir con la mayor cordura posible mientras desentrañas misterios que pueden destruir tu mente.
 

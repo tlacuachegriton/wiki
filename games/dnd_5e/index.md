@@ -5,7 +5,7 @@ tags: [game,dnd]
 ---
 # Dungeons & Dragon 5e
 
-![](/assets/images/dnd_5e/header.png)
+![](/assets/images/games/dnd_5e/header.png)
 
 **Dungeons & Dragons 5e** es un juego de rol de fantasía épica donde los jugadores crean héroes que exploran mundos mágicos llenos de dragones, mazmorras, tesoros y aventuras sin límite. Como aventurero, formarás parte de un grupo que enfrentará monstruos, resolverá enigmas, y vivirá historias épicas en un mundo donde la magia es real y los héroes pueden cambiar el destino del mundo. Es un juego de imaginación colectiva donde las únicas limitaciones son tu creatividad y los dados.
 

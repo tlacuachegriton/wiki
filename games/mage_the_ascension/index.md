@@ -5,7 +5,7 @@ tags: [game, mago]
 ---
 # Mago: la Ascension
 
-![](/assets/images/mage_the_ascension/header.jpg)
+![](/assets/images/games/mage_the_ascension/header.jpg)
 
 **Mago: la Ascensión** es un juego de rol de horror urbano y fantasía moderna donde los jugadores interpretan magos modernos que han "Despertado" a la verdadera naturaleza de la realidad. En un mundo donde la magia es real pero está oculta tras el velo de la ciencia y la racionalidad, los magos luchan por la libertad de practicar su arte mientras enfrentan la Tecnocracia que busca imponer un orden científico absoluto. Es un juego sobre la realidad consensual, donde la creencia de la humanidad da forma al mundo, y donde tu voluntad puede literalmente cambiar las leyes de la física.
 
