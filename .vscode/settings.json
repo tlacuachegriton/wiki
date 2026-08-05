@@ -94,5 +94,10 @@
         "assets",
         "highlights",
         "oneshots"
-    ]
+    ],
+    "[markdown]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnPaste": false,
+        "editor.defaultFormatter": null
+    }
 }
