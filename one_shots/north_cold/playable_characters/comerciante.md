@@ -9,7 +9,7 @@ Comerciante de Esclavos Arrepentido
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 70 | 35 | 14 |
 | CON | 65 | 33 | 13 |
@@ -20,7 +20,7 @@ Comerciante de Esclavos Arrepentido
 | SIZ | 70 | 35 | 14 |
 | INT | 70 | 35 | 14 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 13 |
 | PM | 10 |

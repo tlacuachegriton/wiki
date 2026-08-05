@@ -9,7 +9,7 @@ Oficial de la Armada Real
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 65 | 33 | 13 |
 | CON | 70 | 35 | 14 |
@@ -20,7 +20,7 @@ Oficial de la Armada Real
 | SIZ | 70 | 35 | 14 |
 | INT | 80 | 40 | 16 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 14 |
 | PM | 10 |

@@ -9,7 +9,7 @@ La Curandera Totonaca
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 40 | 20 | 8 |
 | CON | 70 | 35 | 14 |
@@ -20,7 +20,7 @@ La Curandera Totonaca
 | SIZ | 60 | 30 | 12 |
 | INT | 70 | 35 | 14 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 13 |
 | PM | 15 |

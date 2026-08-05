@@ -7,7 +7,7 @@
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR |  |  |  |
 | CON |  |  |  |
@@ -18,7 +18,7 @@
 | SIZ |  |  |  |
 | INT |  |  |  |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV |  |
 | PM |  |

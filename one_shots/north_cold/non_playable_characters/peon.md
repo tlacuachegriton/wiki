@@ -11,7 +11,7 @@ Peon que trabaja en la hacienda para [Éliezer](eliezer.md), en general le gusta
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 60 | 30 | 12 |
 | CON | 65 | 33 | 13 |
@@ -22,7 +22,7 @@ Peon que trabaja en la hacienda para [Éliezer](eliezer.md), en general le gusta
 | SIZ | 60 | 30 | 12 |
 | INT | 50 | 25 | 10 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 13 |
 | PM | 10 |

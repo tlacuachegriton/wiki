@@ -9,7 +9,7 @@ Erudito Universitario
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 40 | 20 | 8 |
 | CON | 50 | 25 | 10 |
@@ -20,7 +20,7 @@ Erudito Universitario
 | SIZ | 70 | 35 | 14 |
 | INT | 85 | 43 | 17 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 12 |
 | PM | 12 |

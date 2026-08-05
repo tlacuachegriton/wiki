@@ -15,7 +15,7 @@ Silenciar la Amenaza: "Mató a Éliezer porque él era una amenaza directa a su 
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 45 | 23 | 09 |
 | CON | 50 | 25 | 10 |
@@ -26,7 +26,7 @@ Silenciar la Amenaza: "Mató a Éliezer porque él era una amenaza directa a su 
 | SIZ | 55 | 27 | 11 |
 | INT | 70 | 35 | 14 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 11 |
 | PM | 18 |

@@ -23,7 +23,7 @@ La causa de muerte de Éliezer Poisot **no es natural ni por enfermedad** (como 
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 55 | 28 | 11 |
 | CON | 60 | 30 | 12 |
@@ -34,7 +34,7 @@ La causa de muerte de Éliezer Poisot **no es natural ni por enfermedad** (como 
 | SIZ | 65 | 33 | 13 |
 | INT | 80 | 40 | 16 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | ~~13~~ 0 |
 | PM | 11 |

@@ -20,7 +20,7 @@ Una criatura demacrada, esquelética, de unos 3 metros de altura, con piel gris�
 | SIZ | 90 |
 | INT | 30 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 17 - 3 Armadura |
 | DB | +1D6 |
@@ -53,7 +53,7 @@ Una manifestación mucho más poderosa, quizás la forma final que Inés intenta
 | SIZ | 130 |
 | INT | 60 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 24 - 6 Armadura - Regenera 2 por asalto si hay hielo |
 | DB | +2D6 |
@@ -88,7 +88,7 @@ Ithaqua (Wendigo) en su forma completa no es un enemigo combatible. Es una fuerz
 | POW | 175 |
 | SIZ | 300 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | N/A - Debe ser desterrado |
 | DB | +6D6 |

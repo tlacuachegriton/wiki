@@ -9,7 +9,7 @@ El Inquisidor Renegado
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 70 | 35 | 14 |
 | CON | 65 | 33 | 13 |
@@ -20,7 +20,7 @@ El Inquisidor Renegado
 | SIZ | 50 | 25 | 10 |
 | INT | 40 | 20 | 8 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 11 |
 | PM | 16 |

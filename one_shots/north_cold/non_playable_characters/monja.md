@@ -13,7 +13,7 @@ Morirá en la capilla el dia siguiente a la llegada de los investigadores a mano
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 40 | 20 | 08 |
 | CON | 50 | 25 | 10 |
@@ -24,7 +24,7 @@ Morirá en la capilla el dia siguiente a la llegada de los investigadores a mano
 | SIZ | 55 | 28 | 11 |
 | INT | 70 | 35 | 14 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 10 |
 | PM | 17 |

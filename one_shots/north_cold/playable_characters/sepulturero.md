@@ -9,7 +9,7 @@ El Sepulturero
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 85 | 43 | 17 |
 | CON | 75 | 38 | 15 |
@@ -20,7 +20,7 @@ El Sepulturero
 | SIZ | 75 | 38 | 15 |
 | INT | 60 | 30 | 12 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 15 |
 | PM | 8 |

@@ -9,7 +9,7 @@ El Corsario Retirado
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 75 | 38 | 15 |
 | CON | 70 | 35 | 14 |
@@ -20,7 +20,7 @@ El Corsario Retirado
 | SIZ | 80 | 40 | 16 |
 | INT | 70 | 35 | 14 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 15 |
 | PM | 10 |

@@ -9,7 +9,7 @@ El Artista Torturado
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 50 | 25 | 10 |
 | CON | 60 | 30 | 12 |
@@ -20,7 +20,7 @@ El Artista Torturado
 | SIZ | 70 | 35 | 14 |
 | INT | 75 | 38 | 15 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 13 |
 | PM | 13 |

@@ -19,7 +19,7 @@ Esta criatura es una aberración cuadrúpeda, de aproximadamente el tamaño de u
 | SIZ | 45 |
 | INT | 40 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 11 |
 | DB | 0 |

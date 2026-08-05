@@ -13,7 +13,7 @@ Fue enviado por el gobernador a la hacienda para confirmar el encargo de la prep
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 60 | 30 | 12 |
 | CON | 55 | 28 | 11 |
@@ -24,7 +24,7 @@ Fue enviado por el gobernador a la hacienda para confirmar el encargo de la prep
 | SIZ | 60 | 30 | 12 |
 | INT | 60 | 30 | 12 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 11 |
 | PM | 9 |

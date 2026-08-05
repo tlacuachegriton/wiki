@@ -11,7 +11,7 @@ Chofer personal de [Éliezer](eliezer.md), hará lo posible por ayudar a su patr
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 65 | 33 | 13 |
 | CON | 65 | 33 | 13 |
@@ -22,7 +22,7 @@ Chofer personal de [Éliezer](eliezer.md), hará lo posible por ayudar a su patr
 | SIZ | 70 | 35 | 14 |
 | INT | 40 | 20 | 08 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 13 |
 | PM | 10 |

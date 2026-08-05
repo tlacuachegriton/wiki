@@ -9,7 +9,7 @@ El Aristócrata Decadente
 ## Características
 
 ||| Caracteristicas
-|  |  |  |  |
+| Nombre | 1 | 1/2 | 1/5 |
 |---|---|---|---|
 | STR | 50 | 25 | 10 |
 | CON | 50 | 25 | 10 |
@@ -20,7 +20,7 @@ El Aristócrata Decadente
 | SIZ | 60 | 30 | 12 |
 | INT | 70 | 35 | 14 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 11 |
 | PM | 15 |
