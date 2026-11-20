@@ -22,7 +22,7 @@ El Nahual es un humano (brujo o chamán) que tiene la habilidad mágica de trans
 | SIZ | 65 | +20 (85) | -10 (55) | 65 |
 | INT | 70 | 70 | 70 | 70 |
 ||| Derivadas
-|  |  | | | |
+| Nombre | Valor | | | |
 |---|---|---|---|---|
 | PV | 13 | 17 + 2 Armadura | 13 + 1 Armadura | 14 + 1 Armadura |
 | PM | 75 | 75 | 75 | 75 |

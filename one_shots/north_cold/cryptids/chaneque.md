@@ -19,7 +19,7 @@ Pequeños seres elementales (parecidos a duendes o niños ancianos) guardianes d
 | SIZ | 20 |
 | INT | 60 |
 ||| Derivadas
-|  |  |
+| Nombre | Valor |
 |---|---|
 | PV | 7 |
 | PM | 80 |

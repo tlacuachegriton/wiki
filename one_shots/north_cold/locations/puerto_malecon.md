@@ -34,7 +34,8 @@ Para que Ithaqua (Wendigo) reciba la ofrenda, el "Viejo" debe arder por completo
 - **Duración:** El ritual tarda 10 asaltos en completarse una vez iniciado. Al llegar al asalto 10, la temperatura del puerto cae a niveles árticos e [Ithaqua (Wendigo)](../cryptids/ithaqua_wendigo.md#forma-completa) emerge de las cenizas.
 
 !!!warning Enemigos
-- [Ines](../npc/ines.md)
+
+- [Ines](../non_playable_characters/ines.md)
 
 - [Nahuales](../cryptids/nahual.md)
 
