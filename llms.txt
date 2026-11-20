@@ -2,172 +2,172 @@
 
 > Logo Gremio del Tlacuache Gritón
 
-- [¡Bienvenides al Gremio del Tlacuache Gritón! 🔥](https://tlacuachegriton.github.io/index.md): ¡Bienvenides al Gremio del Tlacuache Gritón! 🔥
-- [One Shots](https://tlacuachegriton.github.io/one_shots/index.md): Un One Shot es una partida de juego de rol diseñada para completarse en una sola sesión, generalmente entre 3 a 6 horas. A diferencia de las campañas largas que pueden durar meses o años, los one shots ofrecen una historia completa y autocontenida que se resuelve en una sola tarde o noche de juego.
+- [¡Bienvenides al Gremio del Tlacuache Gritón! 🔥](https://tlacuachegriton.github.io/wiki/index.md): ¡Bienvenides al Gremio del Tlacuache Gritón! 🔥
+- [One Shots](https://tlacuachegriton.github.io/wiki/one_shots/index.md): Un One Shot es una partida de juego de rol diseñada para completarse en una sola sesión, generalmente entre 3 a 6 horas. A diferencia de las campañas largas que pueden durar meses o años, los one shots ofrecen una historia completa y autocontenida que se resuelve en una sola tarde o noche de juego.
 
 ## Iniciando
 
-- [Primeros Pasos](https://tlacuachegriton.github.io/starting/first_steps.md): De manera general no se necesitan nada mas alla de ganas de jugar y un grupo de jugadores (donde al menos uno conozca las reglas).
-- [Recursos](https://tlacuachegriton.github.io/starting/resources.md): Tomado de la pagina de Nivel20
+- [Primeros Pasos](https://tlacuachegriton.github.io/wiki/starting/first_steps.md): De manera general no se necesitan nada mas alla de ganas de jugar y un grupo de jugadores (donde al menos uno conozca las reglas).
+- [Recursos](https://tlacuachegriton.github.io/wiki/starting/resources.md): Tomado de la pagina de Nivel20
 
 ## Juegos
 
 ### 🐉 Dungeons & Dragons 5e
 
-- [Dungeons & Dragon 5e](https://tlacuachegriton.github.io/games/dnd_5e/index.md): Dungeons & Dragons 5e es un juego de rol de fantasía épica donde los jugadores crean héroes que exploran mundos mágicos llenos de dragones, mazmorras, tesoros y aventuras sin límite.
-- [Recursos DnD 5e](https://tlacuachegriton.github.io/games/dnd_5e/resources.md): Colección de manuales para incluir reglas, razas, objetos y extras a tus personajes y partidas de Nivel20
+- [Dungeons & Dragon 5e](https://tlacuachegriton.github.io/wiki/games/dnd_5e/index.md): Dungeons & Dragons 5e es un juego de rol de fantasía épica donde los jugadores crean héroes que exploran mundos mágicos llenos de dragones, mazmorras, tesoros y aventuras sin límite.
+- [Recursos DnD 5e](https://tlacuachegriton.github.io/wiki/games/dnd_5e/resources.md): Colección de manuales para incluir reglas, razas, objetos y extras a tus personajes y partidas de Nivel20
 
 ### 🐙 La llamada de Cthulhu
 
-- [La llamada de Cthulhu](https://tlacuachegriton.github.io/games/call_of_cthulhu/index.md): La llamada de Cthulhu es un juego de rol de horror cósmico basado en las obras del escritor H.P. Lovecraft. Los jugadores interpretan investigadores que se enfrentan a misterios sobrenaturales y entidades cósmicas incomprensibles.
-- [Suerte](https://tlacuachegriton.github.io/games/call_of_cthulhu/suerte.md): Se usa cuando el Guardián quiere determinar si el entorno favorece o no al investigador en algo que no depende de sus habilidades.
-- [Combate](https://tlacuachegriton.github.io/games/call_of_cthulhu/combate.md): Fallo < Normal < Difícil < Extremo.
-- [Recursos Call Of Cthulhu](https://tlacuachegriton.github.io/games/call_of_cthulhu/resources.md): Cthulhu Architect
-- [Mago: la Ascension](https://tlacuachegriton.github.io/games/mage_the_ascension/index.md): Mago: la Ascensión es un juego de rol de horror urbano y fantasía moderna donde los jugadores interpretan magos modernos que han "Despertado" a la verdadera naturaleza de la realidad.
+- [La llamada de Cthulhu](https://tlacuachegriton.github.io/wiki/games/call_of_cthulhu/index.md): La llamada de Cthulhu es un juego de rol de horror cósmico basado en las obras del escritor H.P. Lovecraft. Los jugadores interpretan investigadores que se enfrentan a misterios sobrenaturales y entidades cósmicas incomprensibles.
+- [Suerte](https://tlacuachegriton.github.io/wiki/games/call_of_cthulhu/suerte.md): Se usa cuando el Guardián quiere determinar si el entorno favorece o no al investigador en algo que no depende de sus habilidades.
+- [Combate](https://tlacuachegriton.github.io/wiki/games/call_of_cthulhu/combate.md): Fallo < Normal < Difícil < Extremo.
+- [Recursos Call Of Cthulhu](https://tlacuachegriton.github.io/wiki/games/call_of_cthulhu/resources.md): Cthulhu Architect
+- [Mago: la Ascension](https://tlacuachegriton.github.io/wiki/games/mage_the_ascension/index.md): Mago: la Ascensión es un juego de rol de horror urbano y fantasía moderna donde los jugadores interpretan magos modernos que han "Despertado" a la verdadera naturaleza de la realidad.
 
 ## Campañas
 
 ### 🍱 Livera
 
-- [Livera](https://tlacuachegriton.github.io/campaings/livera/index.md): Campaña en Nivel20
-- [Mundo - Livera](https://tlacuachegriton.github.io/campaings/livera/world.md)
-- [Personajes - Livera](https://tlacuachegriton.github.io/campaings/livera/characters.md)
+- [Livera](https://tlacuachegriton.github.io/wiki/campaings/livera/index.md): Campaña en Nivel20
+- [Mundo - Livera](https://tlacuachegriton.github.io/wiki/campaings/livera/world.md)
+- [Personajes - Livera](https://tlacuachegriton.github.io/wiki/campaings/livera/characters.md)
 
 ### 💤 Onírika
 
-- [Onírica](https://tlacuachegriton.github.io/campaings/onirika/index.md)
-- [Mundo - Onírika](https://tlacuachegriton.github.io/campaings/onirika/world.md)
-- [Personajes - Onírika](https://tlacuachegriton.github.io/campaings/onirika/characters.md)
+- [Onírica](https://tlacuachegriton.github.io/wiki/campaings/onirika/index.md)
+- [Mundo - Onírika](https://tlacuachegriton.github.io/wiki/campaings/onirika/world.md)
+- [Personajes - Onírika](https://tlacuachegriton.github.io/wiki/campaings/onirika/characters.md)
 
 ### ‼️ Error 404
 
-- [Error 404](https://tlacuachegriton.github.io/campaings/error_404/index.md)
-- [Mundo - Error 404](https://tlacuachegriton.github.io/campaings/error_404/world.md)
-- [Personajes - Error 404](https://tlacuachegriton.github.io/campaings/error_404/characters.md)
+- [Error 404](https://tlacuachegriton.github.io/wiki/campaings/error_404/index.md)
+- [Mundo - Error 404](https://tlacuachegriton.github.io/wiki/campaings/error_404/world.md)
+- [Personajes - Error 404](https://tlacuachegriton.github.io/wiki/campaings/error_404/characters.md)
 
 ## 💫 One Shots
 
 ### Isla de las Abominaciones
 
-- [Isla de las Abominaciones](https://tlacuachegriton.github.io/one_shots/abominations_island/index.md): El crucero de placer La Dama Suerte surcaba las aguas cálidas del Pacífico rumbo a puertos exóticos, cargado de pasajeros de primera clase, viajeros curiosos y una tripulación curtida.
-- [Guion: Isla de las Abominaciones](https://tlacuachegriton.github.io/one_shots/abominations_island/guion.md): Los investigadores son pasajeros y tripulantes del crucero de placer La Dama Suerte, que navega por el Pacífico Sur a principios del siglo XX. En mitad de una tormenta, una criatura abisal (el Leviatán del Abismo, progenie de Dagon) embiste y hunde el barco.
+- [Isla de las Abominaciones](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/index.md): El crucero de placer La Dama Suerte surcaba las aguas cálidas del Pacífico rumbo a puertos exóticos, cargado de pasajeros de primera clase, viajeros curiosos y una tripulación curtida.
+- [Guion: Isla de las Abominaciones](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/guion.md): Los investigadores son pasajeros y tripulantes del crucero de placer La Dama Suerte, que navega por el Pacífico Sur a principios del siglo XX. En mitad de una tormenta, una criatura abisal (el Leviatán del Abismo, progenie de Dagon) embiste y hunde el barco.
 
 #### Mecánicas Particulares
 
-- [Locura](https://tlacuachegriton.github.io/one_shots/abominations_island/mechanics/locura.md): Un personaje sufre un ataque de locura al perder 1/5 de sus puntos de Cordura iniciales, o cuando pierde 5 puntos o más de Cordura de golpe (por ejemplo, al ver el laboratorio o al despertar atado en la mesa de vivisección).
-- [Sujeto Experimental: Transmutación por Vivisección](https://tlacuachegriton.github.io/one_shots/abominations_island/mechanics/sujeto_experimental.md): Si los personajes consumen la comida contaminada durante la cena, o si son capturados y llevados a la mesa quirúrgica, sufren un efecto de horror biológico directo sobre sus cuerpos.
+- [Locura](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/mechanics/locura.md): Un personaje sufre un ataque de locura al perder 1/5 de sus puntos de Cordura iniciales, o cuando pierde 5 puntos o más de Cordura de golpe (por ejemplo, al ver el laboratorio o al despertar atado en la mesa de vivisección).
+- [Sujeto Experimental: Transmutación por Vivisección](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/mechanics/sujeto_experimental.md): Si los personajes consumen la comida contaminada durante la cena, o si son capturados y llevados a la mesa quirúrgica, sufren un efecto de horror biológico directo sobre sus cuerpos.
 
 #### Ubicaciones
 
-- [Ubicaciones](https://tlacuachegriton.github.io/one_shots/abominations_island/locations/index.md): Una isla volcánica perdida en el Pacífico Sur, rodeada de arrecifes traicioneros y de aguas donde acecha el Leviatán. No figura en ninguna carta de navegación.
-- [La Casa del Dolor](https://tlacuachegriton.github.io/one_shots/abominations_island/locations/la_casa_del_dolor.md): La mansión de Moreau es una construcción colonial elegante, incongruente en mitad de la selva. Faroles de aceite iluminan un recibidor de maderas nobles, alfombras persas y retratos de aristócratas europeos.
-- [Laboratorio y Puerto Secreto](https://tlacuachegriton.github.io/one_shots/abominations_island/locations/laboratorio_puerto_secreto.md): Tras las puertas blindadas, el mundo civilizado desaparece. El laboratorio está iluminado por lámparas eléctricas parpadeantes que zumban. El olor es una bofetada: carbol, formaldehído, sangre fresca y sudor animal.
-- [Playa y Selva](https://tlacuachegriton.github.io/one_shots/abominations_island/locations/playa_selva.md): La arena es negra, fina como ceniza volcánica, y aún está caliente pese a la tormenta que se aleja. Los restos del La Dama Suerte se mecen entre las olas: maletas reventadas, astillas de cubierta, un salvavidas con el nombre del barco.
-- [Epílogo](https://tlacuachegriton.github.io/one_shots/abominations_island/locations/epilogo.md): La huida en la lancha a motor cierra la aventura para quienes logran zarpar. Pero no todos alcanzan el bote a tiempo. El destino de los rezagados se resuelve con una tirada de Suerte.
+- [Ubicaciones](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/locations/index.md): Una isla volcánica perdida en el Pacífico Sur, rodeada de arrecifes traicioneros y de aguas donde acecha el Leviatán. No figura en ninguna carta de navegación.
+- [La Casa del Dolor](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/locations/la_casa_del_dolor.md): La mansión de Moreau es una construcción colonial elegante, incongruente en mitad de la selva. Faroles de aceite iluminan un recibidor de maderas nobles, alfombras persas y retratos de aristócratas europeos.
+- [Laboratorio y Puerto Secreto](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/locations/laboratorio_puerto_secreto.md): Tras las puertas blindadas, el mundo civilizado desaparece. El laboratorio está iluminado por lámparas eléctricas parpadeantes que zumban. El olor es una bofetada: carbol, formaldehído, sangre fresca y sudor animal.
+- [Playa y Selva](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/locations/playa_selva.md): La arena es negra, fina como ceniza volcánica, y aún está caliente pese a la tormenta que se aleja. Los restos del La Dama Suerte se mecen entre las olas: maletas reventadas, astillas de cubierta, un salvavidas con el nombre del barco.
+- [Epílogo](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/locations/epilogo.md): La huida en la lancha a motor cierra la aventura para quienes logran zarpar. Pero no todos alcanzan el bote a tiempo. El destino de los rezagados se resuelve con una tirada de Suerte.
 
 #### Críptidos
 
-- [Leviatán del Abismo (Progenie de Dagon)](https://tlacuachegriton.github.io/one_shots/abominations_island/cryptids/leviatan_abismo.md): Una masa colosal y bioluminiscente de tentáculos y ojos sin párpados que emerge de las profundidades que rodean la isla. Progenie de Dagon, es una fuerza abisal que no responde a nadie, ni siquiera a Moreau.
-- [Mi-Go (Los Hongos de Yuggoth)](https://tlacuachegriton.github.io/one_shots/abominations_island/cryptids/mi_go.md): Seres alienígenas con forma de crustáceo-hongo, dotados de alas membranosas y una cabeza convulsa de apéndices. Son eruditos cósmicos con un dominio
-- [Shub-Niggurath (La Semilla Cósmica)](https://tlacuachegriton.github.io/one_shots/abominations_island/cryptids/shub_niggurath.md): La Cabra Negra de los Bosques con un Millar de Retoños. Una deidad de la fertilidad monstruosa y la proliferación descontrolada de la carne, venerada por los Mi-Go entre otros.
+- [Leviatán del Abismo (Progenie de Dagon)](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/cryptids/leviatan_abismo.md): Una masa colosal y bioluminiscente de tentáculos y ojos sin párpados que emerge de las profundidades que rodean la isla. Progenie de Dagon, es una fuerza abisal que no responde a nadie, ni siquiera a Moreau.
+- [Mi-Go (Los Hongos de Yuggoth)](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/cryptids/mi_go.md): Seres alienígenas con forma de crustáceo-hongo, dotados de alas membranosas y una cabeza convulsa de apéndices. Son eruditos cósmicos con un dominio
+- [Shub-Niggurath (La Semilla Cósmica)](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/cryptids/shub_niggurath.md): La Cabra Negra de los Bosques con un Millar de Retoños. Una deidad de la fertilidad monstruosa y la proliferación descontrolada de la carne, venerada por los Mi-Go entre otros.
 
 #### NPCs
 
-- [Dr. Moreau](https://tlacuachegriton.github.io/one_shots/abominations_island/non_playable_characters/dr_moreau.md): Cirujano de edad avanzada, alto y de porte aristocrático, con barba blanca meticulosamente recortada y manos de dedos largos y precisos. Exiliado de la comunidad científica por sus experimentos de vivisección, ha convertido esta isla remota en su reino privado.
-- [M'ling (El Esbirro Principal)](https://tlacuachegriton.github.io/one_shots/abominations_island/non_playable_characters/mling.md): Híbrido perro-hombre, la creación más lograda y leal de Moreau. Cumple funciones de mayordomo, guardián y ejecutor. Camina casi erguido apoyando los nudillos, huele intensamente a sangre y perro mojado, y porta un bozal de cuero que a veces se retira y un látigo enrollado al cinto.
-- [Remi (El Guía Inocente)](https://tlacuachegriton.github.io/one_shots/abominations_island/non_playable_characters/remi.md): Sobreviviente híbrido castor-hombre, profundamente traumatizado. De baja estatura, dientes prominentes y manos anchas con uñas gruesas. Roe madera de forma compulsiva cuando está ansioso y farfulla palabras a medio formar.
-- [Sirvientes de la Cena (El Pueblo Bestia)](https://tlacuachegriton.github.io/one_shots/abominations_island/non_playable_characters/sirvientes_pueblo_bestia.md): El servicio doméstico de la mansión de Moreau: bestias humanizadas mediante cirugía, obligadas a caminar erguidas, vestir librea y servir la cena. Mantienen una fachada de civismo que se agrieta a cada minuto conforme sus instintos primitivos afloran.
+- [Dr. Moreau](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/non_playable_characters/dr_moreau.md): Cirujano de edad avanzada, alto y de porte aristocrático, con barba blanca meticulosamente recortada y manos de dedos largos y precisos. Exiliado de la comunidad científica por sus experimentos de vivisección, ha convertido esta isla remota en su reino privado.
+- [M'ling (El Esbirro Principal)](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/non_playable_characters/mling.md): Híbrido perro-hombre, la creación más lograda y leal de Moreau. Cumple funciones de mayordomo, guardián y ejecutor. Camina casi erguido apoyando los nudillos, huele intensamente a sangre y perro mojado, y porta un bozal de cuero que a veces se retira y un látigo enrollado al cinto.
+- [Remi (El Guía Inocente)](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/non_playable_characters/remi.md): Sobreviviente híbrido castor-hombre, profundamente traumatizado. De baja estatura, dientes prominentes y manos anchas con uñas gruesas. Roe madera de forma compulsiva cuando está ansioso y farfulla palabras a medio formar.
+- [Sirvientes de la Cena (El Pueblo Bestia)](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/non_playable_characters/sirvientes_pueblo_bestia.md): El servicio doméstico de la mansión de Moreau: bestias humanizadas mediante cirugía, obligadas a caminar erguidas, vestir librea y servir la cena. Mantienen una fachada de civismo que se agrieta a cada minuto conforme sus instintos primitivos afloran.
 
 #### Accesorios
 
-- [Tarjeta de Visita del Dr. Moreau](https://tlacuachegriton.github.io/one_shots/abominations_island/props/tarjeta_moreau.md): Una elegante tarjeta de visita de cartulina marfil, con letras grabadas en relieve. Moreau la entrega a los personajes al recibirlos, con la naturalidad de un anfitrión de sociedad.
-- [Menú del Crucero La Dama Suerte](https://tlacuachegriton.github.io/one_shots/abominations_island/props/menu_lady_luck.md): Un menú de cena arrugado y manchado de agua salada, rescatado de los restos del naufragio. Es un prop de ambientación que ancla a los personajes en la vida que tenían horas antes del horror: el lujo, la calma, la travesía de placer.
-- [Bitácora del Doctor Moreau](https://tlacuachegriton.github.io/one_shots/abominations_island/props/bitacora_moreau.md): Hojas sueltas de una bitácora encontrada en el laboratorio, cubiertas de esquemas anatómicos grotescos, cifras y notas escritas con letra elegante y fría. Es el prop que revela el método, la filosofía y las fuentes cósmicas del doctor.
-- [La Ley](https://tlacuachegriton.github.io/one_shots/abominations_island/props/la_ley.md): Un pergamino tosco, escrito con carbón y sangre seca sobre piel curtida. Es la letanía con la que Moreau adoctrina al Pueblo Bestia y les recuerda su
+- [Tarjeta de Visita del Dr. Moreau](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/props/tarjeta_moreau.md): Una elegante tarjeta de visita de cartulina marfil, con letras grabadas en relieve. Moreau la entrega a los personajes al recibirlos, con la naturalidad de un anfitrión de sociedad.
+- [Menú del Crucero La Dama Suerte](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/props/menu_lady_luck.md): Un menú de cena arrugado y manchado de agua salada, rescatado de los restos del naufragio. Es un prop de ambientación que ancla a los personajes en la vida que tenían horas antes del horror: el lujo, la calma, la travesía de placer.
+- [Bitácora del Doctor Moreau](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/props/bitacora_moreau.md): Hojas sueltas de una bitácora encontrada en el laboratorio, cubiertas de esquemas anatómicos grotescos, cifras y notas escritas con letra elegante y fría. Es el prop que revela el método, la filosofía y las fuentes cósmicas del doctor.
+- [La Ley](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/props/la_ley.md): Un pergamino tosco, escrito con carbón y sangre seca sobre piel curtida. Es la letanía con la que Moreau adoctrina al Pueblo Bestia y les recuerda su
 
 #### Personajes Jugables Sugeridos
 
-- [Erudito naturalista pasajero](https://tlacuachegriton.github.io/one_shots/abominations_island/playable_characters/erudito_naturalista_pasajero.md): Académico obsesionado con las mutaciones y las anomalías de la vida. Viajaba en el La Dama Suerte rumbo a documentar especies exóticas. Intuye rápidamente que la flora y la fauna de la isla violan toda ley evolutiva conocida.
-- [Explorador pasajero](https://tlacuachegriton.github.io/one_shots/abominations_island/playable_characters/explorador_pasajero.md): Trotamundos curtido, acostumbrado a entornos hostiles y a confiar en su propio cuerpo. Viajaba en el La Dama Suerte entre una expedición y la siguiente. Donde otros ven una isla paradisíaca, él ve rutas de huida, refugios y amenazas.
-- [Marinero veterano tripulacion](https://tlacuachegriton.github.io/one_shots/abominations_island/playable_characters/marinero_veterano_tripulacion.md): Ex-marino rudo y pragmático, de manos callosas y mirada dura. Ha visto naufragios antes y sabe que el mar no perdona. Fue quien sintió el golpe inicial contra el casco del La Dama Suerte y quien mejor entiende que la única salida de esta isla es por agua.
-- [Medico pasajero](https://tlacuachegriton.github.io/one_shots/abominations_island/playable_characters/medico_pasajero.md): Analítico y racional, acostumbrado a mantener la calma ante la sangre y la muerte. Viajaba como pasajero en el La Dama Suerte. Será el primero en notar que la anatomía de los sirvientes es sencillamente "imposible".
-- [Pasajero primera clase](https://tlacuachegriton.github.io/one_shots/abominations_island/playable_characters/pasajero_primera_clase.md): Adinerado e influyente, acostumbrado a que el mundo se pliegue a su voluntad y su chequera. Viajaba en el camarote más lujoso del La Dama Suerte. Propenso al pánico cuando pierde su confort, pero capaz de un temple sorprendente cuando la situación lo exige.
-- [🐙 Ficha Técnica y Guía de Campaña: La Isla de las Abominaciones](https://tlacuachegriton.github.io/one_shots/abominations_island/campain_info.md): [cite_start]Los siguientes cinco perfiles están diseñados para una sesión única de alta intensidad, priorizando habilidades útiles para la supervivencia y
+- [Erudito naturalista pasajero](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/playable_characters/erudito_naturalista_pasajero.md): Académico obsesionado con las mutaciones y las anomalías de la vida. Viajaba en el La Dama Suerte rumbo a documentar especies exóticas. Intuye rápidamente que la flora y la fauna de la isla violan toda ley evolutiva conocida.
+- [Explorador pasajero](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/playable_characters/explorador_pasajero.md): Trotamundos curtido, acostumbrado a entornos hostiles y a confiar en su propio cuerpo. Viajaba en el La Dama Suerte entre una expedición y la siguiente. Donde otros ven una isla paradisíaca, él ve rutas de huida, refugios y amenazas.
+- [Marinero veterano tripulacion](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/playable_characters/marinero_veterano_tripulacion.md): Ex-marino rudo y pragmático, de manos callosas y mirada dura. Ha visto naufragios antes y sabe que el mar no perdona. Fue quien sintió el golpe inicial contra el casco del La Dama Suerte y quien mejor entiende que la única salida de esta isla es por agua.
+- [Medico pasajero](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/playable_characters/medico_pasajero.md): Analítico y racional, acostumbrado a mantener la calma ante la sangre y la muerte. Viajaba como pasajero en el La Dama Suerte. Será el primero en notar que la anatomía de los sirvientes es sencillamente "imposible".
+- [Pasajero primera clase](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/playable_characters/pasajero_primera_clase.md): Adinerado e influyente, acostumbrado a que el mundo se pliegue a su voluntad y su chequera. Viajaba en el camarote más lujoso del La Dama Suerte. Propenso al pánico cuando pierde su confort, pero capaz de un temple sorprendente cuando la situación lo exige.
+- [🐙 Ficha Técnica y Guía de Campaña: La Isla de las Abominaciones](https://tlacuachegriton.github.io/wiki/one_shots/abominations_island/campain_info.md): [cite_start]Los siguientes cinco perfiles están diseñados para una sesión única de alta intensidad, priorizando habilidades útiles para la supervivencia y
 
 ### Los Fríos del Norte
 
-- [Los Fríos del Norte](https://tlacuachegriton.github.io/one_shots/north_cold/index.md): El Porfiriato ha quedado atrás. La revolución ha obligado a Venustiano Carranza a mover su gobierno y la capital de la República al Puerto de Veracruz.
-- [Guion: Los Fríos del Norte](https://tlacuachegriton.github.io/one_shots/north_cold/guion.md): Los investigadores reciben un telegrama urgente de Éliezer Poisot, dueño de la hacienda y platanares, solicitando ayuda para investigar un fenómeno de frío extremo y sobrenatural en Veracruz, 1914.
+- [Los Fríos del Norte](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/index.md): El Porfiriato ha quedado atrás. La revolución ha obligado a Venustiano Carranza a mover su gobierno y la capital de la República al Puerto de Veracruz.
+- [Guion: Los Fríos del Norte](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/guion.md): Los investigadores reciben un telegrama urgente de Éliezer Poisot, dueño de la hacienda y platanares, solicitando ayuda para investigar un fenómeno de frío extremo y sobrenatural en Veracruz, 1914.
 
 #### Mecánicas Particulares
 
-- [Chaneques](https://tlacuachegriton.github.io/one_shots/north_cold/mechanics/chaneques.md): Los Chaneques no se enfrentan directamente, sino que causan estragos y molestias intermitentes.
-- [Explosion de Dinamita](https://tlacuachegriton.github.io/one_shots/north_cold/mechanics/explosion_dinamita.md): Dada la naturaleza confinada del sótano y la potencia de los cartuchos, la explosión no solo afecta a quien los manipula, sino a la estructura misma de la Hacienda Poisot.
-- [Locura](https://tlacuachegriton.github.io/one_shots/north_cold/mechanics/locura.md): Un Personaje tiene un ataque psicótico al perder 1/5 de sus puntos de iniciales de cordura. Al perder 5 puntos de cordura de golpe el personaje entra en shock, se congela del impacto o sale corriendo del susto, después de eso empieza a escuchar alIthaqua (Wendigo) tentándolo a unirse a él.
-- [Muerte](https://tlacuachegriton.github.io/one_shots/north_cold/mechanics/muerte.md): Dado que el tema es el frío sobrenatural, la muerte física puede no ser el final inmediato. Ithaqua (Wendigo) a menudo congela a sus víctimas para llevárselas vivas.
-- [Revelación Atávica](https://tlacuachegriton.github.io/one_shots/north_cold/mechanics/revelacion_atavica.md): Cuando un investigador entra en contacto físico con un tomo prohibido, un pergamino o un objeto ritual, el conocimiento no se lee, se transfiere.
+- [Chaneques](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/mechanics/chaneques.md): Los Chaneques no se enfrentan directamente, sino que causan estragos y molestias intermitentes.
+- [Explosion de Dinamita](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/mechanics/explosion_dinamita.md): Dada la naturaleza confinada del sótano y la potencia de los cartuchos, la explosión no solo afecta a quien los manipula, sino a la estructura misma de la Hacienda Poisot.
+- [Locura](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/mechanics/locura.md): Un Personaje tiene un ataque psicótico al perder 1/5 de sus puntos de iniciales de cordura. Al perder 5 puntos de cordura de golpe el personaje entra en shock, se congela del impacto o sale corriendo del susto, después de eso empieza a escuchar alIthaqua (Wendigo) tentándolo a unirse a él.
+- [Muerte](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/mechanics/muerte.md): Dado que el tema es el frío sobrenatural, la muerte física puede no ser el final inmediato. Ithaqua (Wendigo) a menudo congela a sus víctimas para llevárselas vivas.
+- [Revelación Atávica](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/mechanics/revelacion_atavica.md): Cuando un investigador entra en contacto físico con un tomo prohibido, un pergamino o un objeto ritual, el conocimiento no se lee, se transfiere.
 
 #### Ubicaciones
 
-- [Ubicaciones](https://tlacuachegriton.github.io/one_shots/north_cold/locations/index.md): La Hacienda Poisot se presenta como una joya de arquitectura rural y orden, extendiéndose sobre una vasta planta baja donde cada edificio cumple una función precisa en un entorno de aparente prosperidad.
-- [Aposentos de Ines](https://tlacuachegriton.github.io/one_shots/north_cold/locations/aposentos_ines.md): Al entrar, el aire se siente notablemente más pesado. El olor predominante es una mezcla de almidón rígido, cera de vela barata y un rastro metálico que recuerda al hierro frío (o a la sangre seca).
-- [Biblioteca](https://tlacuachegriton.github.io/one_shots/north_cold/locations/biblioteca.md): La Biblioteca es un cuarto oscuro y de techo alto. A pesar de los estantes llenos, el cuarto se siente vacío. El aire está seco y huele a papel viejo, moho y, muy sutilmente, a ozono (el olor a frío eléctrico).
-- [Capilla](https://tlacuachegriton.github.io/one_shots/north_cold/locations/capilla.md): Una pequeña y austera capilla de estilo colonial. Las paredes están decoradas con motivos florales sencillos y un gran crucifijo de madera. A pesar de la luz de las velas (que parecen temblar incluso sin viento), el ambiente es notablemente más frío que el exterior.
-- [Cocina](https://tlacuachegriton.github.io/one_shots/north_cold/locations/cocina.md): La Cocina es una sala de tamaño industrial, con techos altos y paredes de azulejos gruesos y descoloridos, diseñada para alimentar a una gran cantidad de peones y la familia.
-- [Comedor](https://tlacuachegriton.github.io/one_shots/north_cold/locations/comedor.md): El comedor rebosa de una calidez reconfortante, iluminado por el resplandor dorado de los candelabros que arrancan destellos a la caoba pulida y la platería.
-- [Establo / Belen](https://tlacuachegriton.github.io/one_shots/north_cold/locations/establo_belen.md): Los Establos, una estructura de piedra maciza y madera pesada, han sido completamente vaciados de su propósito original. No hay rastro de paja, estiércol o el olor cálido de los animales.
-- [Estudio de Éliezer](https://tlacuachegriton.github.io/one_shots/north_cold/locations/estuidio_eliezer.md): El Estudio de Éliezer es una habitación pequeña, pero densamente utilizada, anexa a la Biblioteca principal mediante una puerta de madera maciza.
-- [Habitación de Éliezer](https://tlacuachegriton.github.io/one_shots/north_cold/locations/habitacion_eliezer.md): La habitación de Éliezer se encuentra cerca del estudio, es la primera habitación del bloque de habitaciones. A diferencia del estudio, este es un espacio que debería ser de descanso, pero se siente como una cripta.
-- [Patio](https://tlacuachegriton.github.io/one_shots/north_cold/locations/patio.md): El patio es una extensión de tierra apisonada y baldosas de piedra que ahora crujen bajo una capa de escarcha persistente. La visibilidad es engañosa; las distancias entre la Cocina, la Capilla y los Aposentos de Inés parecen alargarse cuando la niebla gélida baja desde los platanales.
-- [Platanares](https://tlacuachegriton.github.io/one_shots/north_cold/locations/platanares.md): Ubicados al este de la propiedad, tras cruzar el muro perimetral, los platanales se extienden hasta donde alcanza la vista. Lo que antes era un mar verde y exuberante es ahora un cementerio de hojas ennegrecidas y quebradizas.
-- [Pozo](https://tlacuachegriton.github.io/one_shots/north_cold/locations/pozo.md): El pozo se encuentra en un pequeño patio lateral, flanqueado por muros de adobe viejo y adoquines cubiertos de musgo. Esta área recibe la luz directa del sol, pero el ambiente aquí es significativamente más frío que en cualquier otra parte del exterior.
-- [Recibidor](https://tlacuachegriton.github.io/one_shots/north_cold/locations/recibidor.md): La Sala Principal es un gran salón de recepción diseñado para imponer, sirviendo como la perfecta fachada de normalidad y riqueza de la hacienda. Está decorada con un estilo colonial europeo, con paredes revestidas en madera oscura y un suelo de mosaicos fríos.
-- [Sala de Costura y Espejos](https://tlacuachegriton.github.io/one_shots/north_cold/locations/sala_costura.md): Esta habitación es la intersección de dos funciones: la costura y el arreglo personal. Es sorprendentemente luminosa gracias a una gran ventana (esencial
-- [Sotano de Pólvora](https://tlacuachegriton.github.io/one_shots/north_cold/locations/sotano.md): Ubicado entre el Recibidor y el Patio de Baile, el acceso consiste en una trampilla de madera reforzada con hierro que da paso a una escalera de piedra empinada.
-- [Zona de baile](https://tlacuachegriton.github.io/one_shots/north_cold/locations/zona_baile.md): Esta no es una sala cerrada, sino una extensa explanada al aire libre rodeada por los muros bajos de las bodegas y algunas palmeras aisladas. Está diseñada como un lugar social para las fiestas de la hacienda.
-- [Camino al Malecón - Ritual de Media Noche 1](https://tlacuachegriton.github.io/one_shots/north_cold/locations/camino_malecon.md): Es una persecución por alcanzar a Ines en el malecón y evitar el ritual.
-- [El Malecón - Ritual de Media Noche 2](https://tlacuachegriton.github.io/one_shots/north_cold/locations/puerto_malecon.md): Los investigadores llegan al puerto (11:00 PM - 11:30 PM in-game). El ambiente es de carnaval, saben que deben detener el ritual a toda costa, solo tienen media hora para hacerlo.
-- [Epilogo](https://tlacuachegriton.github.io/one_shots/north_cold/locations/epilogo.md): Los investigadores destruyeron la efigie y derrotaron a Inés en el asalto final.
+- [Ubicaciones](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/index.md): La Hacienda Poisot se presenta como una joya de arquitectura rural y orden, extendiéndose sobre una vasta planta baja donde cada edificio cumple una función precisa en un entorno de aparente prosperidad.
+- [Aposentos de Ines](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/aposentos_ines.md): Al entrar, el aire se siente notablemente más pesado. El olor predominante es una mezcla de almidón rígido, cera de vela barata y un rastro metálico que recuerda al hierro frío (o a la sangre seca).
+- [Biblioteca](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/biblioteca.md): La Biblioteca es un cuarto oscuro y de techo alto. A pesar de los estantes llenos, el cuarto se siente vacío. El aire está seco y huele a papel viejo, moho y, muy sutilmente, a ozono (el olor a frío eléctrico).
+- [Capilla](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/capilla.md): Una pequeña y austera capilla de estilo colonial. Las paredes están decoradas con motivos florales sencillos y un gran crucifijo de madera. A pesar de la luz de las velas (que parecen temblar incluso sin viento), el ambiente es notablemente más frío que el exterior.
+- [Cocina](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/cocina.md): La Cocina es una sala de tamaño industrial, con techos altos y paredes de azulejos gruesos y descoloridos, diseñada para alimentar a una gran cantidad de peones y la familia.
+- [Comedor](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/comedor.md): El comedor rebosa de una calidez reconfortante, iluminado por el resplandor dorado de los candelabros que arrancan destellos a la caoba pulida y la platería.
+- [Establo / Belen](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/establo_belen.md): Los Establos, una estructura de piedra maciza y madera pesada, han sido completamente vaciados de su propósito original. No hay rastro de paja, estiércol o el olor cálido de los animales.
+- [Estudio de Éliezer](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/estuidio_eliezer.md): El Estudio de Éliezer es una habitación pequeña, pero densamente utilizada, anexa a la Biblioteca principal mediante una puerta de madera maciza.
+- [Habitación de Éliezer](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/habitacion_eliezer.md): La habitación de Éliezer se encuentra cerca del estudio, es la primera habitación del bloque de habitaciones. A diferencia del estudio, este es un espacio que debería ser de descanso, pero se siente como una cripta.
+- [Patio](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/patio.md): El patio es una extensión de tierra apisonada y baldosas de piedra que ahora crujen bajo una capa de escarcha persistente. La visibilidad es engañosa; las distancias entre la Cocina, la Capilla y los Aposentos de Inés parecen alargarse cuando la niebla gélida baja desde los platanales.
+- [Platanares](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/platanares.md): Ubicados al este de la propiedad, tras cruzar el muro perimetral, los platanales se extienden hasta donde alcanza la vista. Lo que antes era un mar verde y exuberante es ahora un cementerio de hojas ennegrecidas y quebradizas.
+- [Pozo](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/pozo.md): El pozo se encuentra en un pequeño patio lateral, flanqueado por muros de adobe viejo y adoquines cubiertos de musgo. Esta área recibe la luz directa del sol, pero el ambiente aquí es significativamente más frío que en cualquier otra parte del exterior.
+- [Recibidor](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/recibidor.md): La Sala Principal es un gran salón de recepción diseñado para imponer, sirviendo como la perfecta fachada de normalidad y riqueza de la hacienda. Está decorada con un estilo colonial europeo, con paredes revestidas en madera oscura y un suelo de mosaicos fríos.
+- [Sala de Costura y Espejos](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/sala_costura.md): Esta habitación es la intersección de dos funciones: la costura y el arreglo personal. Es sorprendentemente luminosa gracias a una gran ventana (esencial
+- [Sotano de Pólvora](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/sotano.md): Ubicado entre el Recibidor y el Patio de Baile, el acceso consiste en una trampilla de madera reforzada con hierro que da paso a una escalera de piedra empinada.
+- [Zona de baile](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/zona_baile.md): Esta no es una sala cerrada, sino una extensa explanada al aire libre rodeada por los muros bajos de las bodegas y algunas palmeras aisladas. Está diseñada como un lugar social para las fiestas de la hacienda.
+- [Camino al Malecón - Ritual de Media Noche 1](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/camino_malecon.md): Es una persecución por alcanzar a Ines en el malecón y evitar el ritual.
+- [El Malecón - Ritual de Media Noche 2](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/puerto_malecon.md): Los investigadores llegan al puerto (11:00 PM - 11:30 PM in-game). El ambiente es de carnaval, saben que deben detener el ritual a toda costa, solo tienen media hora para hacerlo.
+- [Epilogo](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/locations/epilogo.md): Los investigadores destruyeron la efigie y derrotaron a Inés en el asalto final.
 
 #### Críptidos
 
-- [Chaneques](https://tlacuachegriton.github.io/one_shots/north_cold/cryptids/chaneque.md): Pequeños seres elementales (parecidos a duendes o niños ancianos) guardianes de la naturaleza en el folklore mexicano. No son inherentemente malignos, pero sí vengativos y peligrosos si se les falta al respeto.
-- [Chupacabras](https://tlacuachegriton.github.io/one_shots/north_cold/cryptids/chupacabras.md): Esta criatura es una aberración cuadrúpeda, de aproximadamente el tamaño de un lobo, pero con una postura encorvada que sugiere una inteligencia malévola. Su piel es coriácea, de un tono gris azulado y carente de pelaje, exceptuando una hilera de espinas rígidas que recorren su columna vertebral.
-- [Ithaqua (Wendigo)](https://tlacuachegriton.github.io/one_shots/north_cold/cryptids/ithaqua_wendigo.md): Una criatura demacrada, esquelética, de unos 3 metros de altura, con piel grisácea y congelada, ojos brillantes y garras largas. Parece un cadáver gigante animado por el hambre fría.
-- [Nahuales](https://tlacuachegriton.github.io/one_shots/north_cold/cryptids/nahual.md): El Nahual es un humano (brujo o chamán) que tiene la habilidad mágica de transformarse en un animal. Sus estadísticas base son humanas, pero se modifican al transformarse.
+- [Chaneques](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/cryptids/chaneque.md): Pequeños seres elementales (parecidos a duendes o niños ancianos) guardianes de la naturaleza en el folklore mexicano. No son inherentemente malignos, pero sí vengativos y peligrosos si se les falta al respeto.
+- [Chupacabras](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/cryptids/chupacabras.md): Esta criatura es una aberración cuadrúpeda, de aproximadamente el tamaño de un lobo, pero con una postura encorvada que sugiere una inteligencia malévola. Su piel es coriácea, de un tono gris azulado y carente de pelaje, exceptuando una hilera de espinas rígidas que recorren su columna vertebral.
+- [Ithaqua (Wendigo)](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/cryptids/ithaqua_wendigo.md): Una criatura demacrada, esquelética, de unos 3 metros de altura, con piel grisácea y congelada, ojos brillantes y garras largas. Parece un cadáver gigante animado por el hambre fría.
+- [Nahuales](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/cryptids/nahual.md): El Nahual es un humano (brujo o chamán) que tiene la habilidad mágica de transformarse en un animal. Sus estadísticas base son humanas, pero se modifican al transformarse.
 
 #### NPCs
 
-- [Éliezer Poisot](https://tlacuachegriton.github.io/one_shots/north_cold/non_playable_characters/eliezer.md): Hombre mayor, de unos 62 años, le conocen como "El Güero" por tener una tez mas clara que la mayoría de la población de Veracruz, cara lampiña de caballo cano y ojos verdes.
-- [Ines](https://tlacuachegriton.github.io/one_shots/north_cold/non_playable_characters/ines.md): Mujer adulta de 50 años, es la capataz de la hacienda, severa y firme pero justa, cabello castaño oscuro con inicios de canas, ropa de trabajo. Sabe hacer de casi todo.
-- [Juan Enrique (Quique)](https://tlacuachegriton.github.io/one_shots/north_cold/non_playable_characters/mesajero.md): Joven de 16 años, delgado y ágil, tez morena, ojos oscuros y sonrisa grande.
-- [Sebastian](https://tlacuachegriton.github.io/one_shots/north_cold/non_playable_characters/cochero.md): Hombre adulto de 38 años, de mediana estatura, fuerte, de tez morena y cabellos oscuros
-- [Sin Nombre (Comodín)](https://tlacuachegriton.github.io/one_shots/north_cold/non_playable_characters/peon.md): N/A
-- [Sor Margarita (Sor Rita)](https://tlacuachegriton.github.io/one_shots/north_cold/non_playable_characters/monja.md): Monja de avanzada edad, 68 años, siempre viste su habito y su relicario de madera. Es severa pero amable. Siempre busca la compasión en los demas, totalmente devota a la iglesia católica.
+- [Éliezer Poisot](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/non_playable_characters/eliezer.md): Hombre mayor, de unos 62 años, le conocen como "El Güero" por tener una tez mas clara que la mayoría de la población de Veracruz, cara lampiña de caballo cano y ojos verdes.
+- [Ines](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/non_playable_characters/ines.md): Mujer adulta de 50 años, es la capataz de la hacienda, severa y firme pero justa, cabello castaño oscuro con inicios de canas, ropa de trabajo. Sabe hacer de casi todo.
+- [Juan Enrique (Quique)](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/non_playable_characters/mesajero.md): Joven de 16 años, delgado y ágil, tez morena, ojos oscuros y sonrisa grande.
+- [Sebastian](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/non_playable_characters/cochero.md): Hombre adulto de 38 años, de mediana estatura, fuerte, de tez morena y cabellos oscuros
+- [Sin Nombre (Comodín)](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/non_playable_characters/peon.md): N/A
+- [Sor Margarita (Sor Rita)](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/non_playable_characters/monja.md): Monja de avanzada edad, 68 años, siempre viste su habito y su relicario de madera. Es severa pero amable. Siempre busca la compasión en los demas, totalmente devota a la iglesia católica.
 
 #### Accesorios
 
-- [Cartas para los Investigadores](https://tlacuachegriton.github.io/one_shots/north_cold/props/cartas_gremio.md): Mi estimade XXXX
-- [Notas de Campo de Éliezer](https://tlacuachegriton.github.io/one_shots/north_cold/props/notas_eliezer.md): Notas escritas sobre sus aventuras, incluye datos de críptidos, rituales, ubicaciones, etc...
-- [Hechizos](https://tlacuachegriton.github.io/one_shots/north_cold/props/hechizos.md): Si los hechizos fueron aprendidos por Revelación Atávica aplica la consecuencia al investigador
+- [Cartas para los Investigadores](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/props/cartas_gremio.md): Mi estimade XXXX
+- [Notas de Campo de Éliezer](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/props/notas_eliezer.md): Notas escritas sobre sus aventuras, incluye datos de críptidos, rituales, ubicaciones, etc...
+- [Hechizos](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/props/hechizos.md): Si los hechizos fueron aprendidos por Revelación Atávica aplica la consecuencia al investigador
 
 #### Personajes Jugables Sugeridos
 
-- [Aristocrata](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/aristocrata.md): El Aristócrata Decadente
-- [Artista](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/artista.md): El Artista Torturado
-- [Comerciante](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/comerciante.md): Comerciante de Esclavos Arrepentido
-- [Corsario](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/corsario.md): El Corsario Retirado
-- [Curandera](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/curandera.md): La Curandera Totonaca
-- [Erudito](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/erudito.md): Erudito Universitario
-- [Inquisidor](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/inquisidor.md): El Inquisidor Renegado
-- [Monja](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/monja.md): La Monja de Clausura
-- [Oficial](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/oficial.md): Oficial de la Armada Real
-- [Sepulturero](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/sepulturero.md): El Sepulturero
+- [Aristocrata](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/aristocrata.md): El Aristócrata Decadente
+- [Artista](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/artista.md): El Artista Torturado
+- [Comerciante](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/comerciante.md): Comerciante de Esclavos Arrepentido
+- [Corsario](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/corsario.md): El Corsario Retirado
+- [Curandera](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/curandera.md): La Curandera Totonaca
+- [Erudito](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/erudito.md): Erudito Universitario
+- [Inquisidor](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/inquisidor.md): El Inquisidor Renegado
+- [Monja](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/monja.md): La Monja de Clausura
+- [Oficial](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/oficial.md): Oficial de la Armada Real
+- [Sepulturero](https://tlacuachegriton.github.io/wiki/one_shots/north_cold/playable_characters/sepulturero.md): El Sepulturero
 
 ### Murder on electric floor
 
-- [Murder On The Electric Floor](https://tlacuachegriton.github.io/one_shots/murder_on_electric_floor/guion.md): Oneshot del Sistema de Rol "Médula"
+- [Murder On The Electric Floor](https://tlacuachegriton.github.io/wiki/one_shots/murder_on_electric_floor/guion.md): Oneshot del Sistema de Rol "Médula"
 
 ## Destacados
 
-- [Citas Celebres](https://tlacuachegriton.github.io/highlights/quotes.md)
+- [Citas Celebres](https://tlacuachegriton.github.io/wiki/highlights/quotes.md)
