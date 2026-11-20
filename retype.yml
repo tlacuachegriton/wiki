@@ -2,7 +2,7 @@ input: .
 output: .retype
 
 # do not change url, this allows to use pro features for free
-url: wiki.tlacuachegriton.club
+url: tlacuachegriton.github.io
 
 start:
   pro: true
