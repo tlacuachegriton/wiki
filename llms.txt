@@ -164,6 +164,10 @@
 - [Oficial](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/oficial.md): Oficial de la Armada Real
 - [Sepulturero](https://tlacuachegriton.github.io/one_shots/north_cold/playable_characters/sepulturero.md): El Sepulturero
 
+### Murder on electric floor
+
+- [Murder On The Electric Floor](https://tlacuachegriton.github.io/one_shots/murder_on_electric_floor/guion.md): Oneshot del Sistema de Rol "Médula"
+
 ## Destacados
 
 - [Citas Celebres](https://tlacuachegriton.github.io/highlights/quotes.md)
